@@ -1,14 +1,20 @@
 var express = require("express");
-var app = express();
 const port = 8080;
 
 var verifier = require("email-verify");
 var infoCodes = verifier.infoCodes;
 
 //Body parser
-var bodyParser = require("body-parser");
+var app = express();
+
+var bodyParser = require('body-parser');
+var multer = require('multer');
+var forms = multer();
+app.use(bodyParser.json());
+app.use(forms.array()); 
 app.use(bodyParser.urlencoded({ extended: true }));
 
+//View engine
 app.set("view engine", "ejs");
 
 function verifyEmail(email) {
@@ -83,7 +89,6 @@ app.get("/test/email", async function (req, res) {
   res.send(array);
 });
 
-//Email validator
 app.post("/validate/email", async function (req, res) {
   try {
     var email = req.body?.email;
@@ -96,8 +101,10 @@ app.post("/validate/email", async function (req, res) {
       }
     }
   } catch (err) {
+    console.log(err);
     res.send(err);
   }
 });
+
 
 app.listen(port, () => console.log(`App listening on PROD ${port}!`));
