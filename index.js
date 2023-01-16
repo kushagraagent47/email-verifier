@@ -4,14 +4,39 @@ const port = 8080;
 var verifier = require("email-verify");
 var infoCodes = verifier.infoCodes;
 
+//email existance
+var emailExistence = require("email-existence");
 //Body parser
 var app = express();
 
-var bodyParser = require('body-parser');
-var multer = require('multer');
+var bodyParser = require("body-parser");
+var multer = require("multer");
 var forms = multer();
+
+// // // Mailer zoho
+// // const nodemailer = require("nodemailer");
+// // //Zoho config
+// // let transporter = nodemailer.createTransport({
+// //   host: "smtp.zoho.in",
+// //   port: 465,
+// //   secure: true, // true for 465, false for other ports
+// //   auth: {
+// //     user: "developer@emailhunt.in", // your email address
+// //     pass: "We5fZ802RYYP", // your email account password
+// //   },
+// // });
+
+// // transporter.verify((error, success) => {
+// //   if (error) {
+// //       console.log(error);
+// //   } else {
+// //       console.log('Server is ready to take messages');
+// //   }
+// });
+
+
 app.use(bodyParser.json());
-app.use(forms.array()); 
+app.use(forms.array());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 //View engine
@@ -72,21 +97,33 @@ function findemail(first_name, last_name, domain) {
 }
 
 app.get("/test/email", async function (req, res) {
-  var first_name = "kushagra";
-  var last_name = "kumar";
-  var domain = "level.game";
-
-  var array = [];
-  //Get all combinations
-  var all_emails = findemail(first_name, last_name, domain);
-
-  for (var i = 0; i < all_emails.length; i++) {
-    var info = await verifyEmail(all_emails[i]);
-    if (info.success == true) {
-      array.push(all_emails[i]);
+  verifier.verify( 'kushagra@level.game', function( err, info ){
+    if( err ) console.log(err);
+    else{
+      console.log( "Success (T/F): " + info.success );
+      console.log( "Info: " + info.info );
+  
+      //Info object returns a code which representing a state of validation:
+  
+      //Connected to SMTP server and finished email verification
+      console.log(info.code === infoCodes.finishedVerification);
+  
+      //Domain not found
+      console.log(info.code === infoCodes.domainNotFound);
+  
+      //Email is not valid
+      console.log(info.code === infoCodes.invalidEmailStructure);
+  
+      //No MX record in domain name
+      console.log(info.code === infoCodes.noMxRecords);
+  
+      //SMTP connection timeout
+      console.log(info.code === infoCodes.SMTPConnectionTimeout);
+  
+      //SMTP connection error
+      console.log(info.code === infoCodes.SMTPConnectionError)
     }
-  }
-  res.send(array);
+  });
 });
 
 app.post("/validate/email", async function (req, res) {
@@ -105,6 +142,5 @@ app.post("/validate/email", async function (req, res) {
     res.send(err);
   }
 });
-
 
 app.listen(port, () => console.log(`App listening on PROD ${port}!`));
