@@ -85,16 +85,18 @@ app.get("/test/email", async function (req, res) {
 
 //Email validator
 app.post("/validate/email", async function (req, res) {
-  var email = req.body?.email;
-  if (typeof email != "undefined") {
-    var info = await verifyEmail(email);
-    if (info.success == true) {
-      res.render("index", { email: email, value: "Healthy" });
-    } else {
-      res.render("index", { email: email, value: "Unhealthy" });
+  try {
+    var email = req.body?.email;
+    if (typeof email != "undefined") {
+      var info = await verifyEmail(email);
+      if (info.success == true) {
+        res.render("index", { email: email, value: "Healthy" });
+      } else {
+        res.render("index", { email: email, value: "Unhealthy" });
+      }
     }
-  } else {
-    res.sendStatus(400);
+  } catch (err) {
+    res.send(err);
   }
 });
 
