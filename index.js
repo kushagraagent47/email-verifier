@@ -5,6 +5,8 @@ const port = 8080;
 var verifier = require("email-verify");
 var infoCodes = verifier.infoCodes;
 
+app.set('view engine', 'ejs');
+
 function verifyEmail(email) {
   return new Promise((resolve, reject) => {
     verifier.verify(email, (err, info) => {
@@ -16,6 +18,11 @@ function verifyEmail(email) {
     });
   });
 }
+
+//Homepage
+app.get("/", async function (req, res) {
+  res.render("index");
+})
 
 //Find emails
 function findemail(first_name, last_name, domain) {
