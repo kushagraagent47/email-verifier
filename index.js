@@ -5,7 +5,11 @@ const port = 8080;
 var verifier = require("email-verify");
 var infoCodes = verifier.infoCodes;
 
-app.set('view engine', 'ejs');
+//Body parser
+var bodyParser = require("body-parser");
+app.use(bodyParser.urlencoded({ extended: true }));
+
+app.set("view engine", "ejs");
 
 function verifyEmail(email) {
   return new Promise((resolve, reject) => {
@@ -22,7 +26,7 @@ function verifyEmail(email) {
 //Homepage
 app.get("/", async function (req, res) {
   res.render("index");
-})
+});
 
 //Find emails
 function findemail(first_name, last_name, domain) {
@@ -58,15 +62,15 @@ function findemail(first_name, last_name, domain) {
   for (var i = 0; i < emails.length; i++) {
     emails[i] = emails[i] + "@" + domain;
   }
-  return emails
+  return emails;
 }
 
 app.get("/test/email", async function (req, res) {
   var first_name = "kushagra";
   var last_name = "kumar";
-  var domain = "level.game"
+  var domain = "level.game";
 
-  var array = []
+  var array = [];
   //Get all combinations
   var all_emails = findemail(first_name, last_name, domain);
 
@@ -77,6 +81,21 @@ app.get("/test/email", async function (req, res) {
     }
   }
   res.send(array);
+});
+
+//Email validator
+app.post("/validate/email", async function (req, res) {
+  var email = req.body?.email;
+  if (typeof email != "undefined") {
+    var info = await verifyEmail(email);
+    if (info.success == true) {
+      res.render("index", { email: email, value: "Healthy" });
+    } else {
+      res.render("index", { email: email, value: "Unhealthy" });
+    }
+  } else {
+    res.sendStatus(400);
+  }
 });
 
 app.listen(port, () => console.log(`App listening on PROD ${port}!`));
