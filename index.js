@@ -10,6 +10,8 @@ var bodyParser = require("body-parser");
 var multer = require("multer");
 var forms = multer();
 
+var emailExistence = require("email-existence");
+
 app.use(bodyParser.json());
 app.use(forms.array());
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -72,7 +74,7 @@ function findemail(first_name, last_name, domain) {
 }
 
 app.get("/find/email/list", async function (req, res) {
-  var first_name = "pratik";
+  var first_name = "pratik    ";
   var last_name = "khopkar";
   var domain = "level.game";
   var emails = await findemail(first_name, last_name, domain);
@@ -90,21 +92,39 @@ app.get("/find/email/list", async function (req, res) {
   res.send(valid_emails);
 });
 
+// app.post("/validate/email", async function (req, res) {
+//   try {
+//     var email = req.body?.email;
+//     if (typeof email != "undefined") {
+//       emailExists({ sender: "developer@emailhunt.in", recipient: email })
+//         .then(function (result) {
+//           if (result == "MAY_EXIST") {
+//             res.render("index", { email: email, value: "Healthy" });
+//           } else {
+//             res.render("index", { email: email, value: "Unhealthy" });
+//           }
+//         })
+//         .catch(function (err) {
+//           res.send(err)
+//         });
+//     }
+//   } catch (err) {
+//     console.log(err);
+//     res.send(err);
+//   }
+// });
+
+//V2
 app.post("/validate/email", async function (req, res) {
   try {
     var email = req.body?.email;
     if (typeof email != "undefined") {
-      emailExists({ sender: "developer@emailhunt.in", recipient: email })
-        .then(function (result) {
-          if (result == "MAY_EXIST") {
-            res.render("index", { email: email, value: "Healthy" });
-          } else {
-            res.render("index", { email: email, value: "Unhealthy" });
-          }
-        })
-        .catch(function (err) {
-          res.send(err)
-        });
+      emailExistence.check(email, function (error, response) {
+        if (error) {
+          console.log(error);
+        }
+        res.send(response);
+      });
     }
   } catch (err) {
     console.log(err);
