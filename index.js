@@ -1,9 +1,6 @@
 var express = require("express");
 const port = 8080;
 
-var verifier = require("email-verify");
-var infoCodes = verifier.infoCodes;
-
 //email existance
 const emailExists = require("email-exists");
 //Body parser
@@ -12,27 +9,6 @@ var app = express();
 var bodyParser = require("body-parser");
 var multer = require("multer");
 var forms = multer();
-
-// // // Mailer zoho
-// // const nodemailer = require("nodemailer");
-// // //Zoho config
-// // let transporter = nodemailer.createTransport({
-// //   host: "smtp.zoho.in",
-// //   port: 465,
-// //   secure: true, // true for 465, false for other ports
-// //   auth: {
-// //     user: "developer@emailhunt.in", // your email address
-// //     pass: "We5fZ802RYYP", // your email account password
-// //   },
-// // });
-
-// // transporter.verify((error, success) => {
-// //   if (error) {
-// //       console.log(error);
-// //   } else {
-// //       console.log('Server is ready to take messages');
-// //   }
-// });
 
 app.use(bodyParser.json());
 app.use(forms.array());
@@ -127,7 +103,7 @@ app.post("/validate/email", async function (req, res) {
           }
         })
         .catch(function (err) {
-          res.send("Something went wrong");
+          res.send(err)
         });
     }
   } catch (err) {
