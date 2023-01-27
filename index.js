@@ -92,44 +92,44 @@ app.get("/find/email/list", async function (req, res) {
   res.send(valid_emails);
 });
 
-// app.post("/validate/email", async function (req, res) {
-//   try {
-//     var email = req.body?.email;
-//     if (typeof email != "undefined") {
-//       emailExists({ sender: "developer@emailhunt.in", recipient: email })
-//         .then(function (result) {
-//           if (result == "MAY_EXIST") {
-//             res.render("index", { email: email, value: "Healthy" });
-//           } else {
-//             res.render("index", { email: email, value: "Unhealthy" });
-//           }
-//         })
-//         .catch(function (err) {
-//           res.send(err)
-//         });
-//     }
-//   } catch (err) {
-//     console.log(err);
-//     res.send(err);
-//   }
-// });
-
-//V2
 app.post("/validate/email", async function (req, res) {
   try {
     var email = req.body?.email;
     if (typeof email != "undefined") {
-      emailExistence.check(email, function (error, response) {
-        if (error) {
-          console.log(error);
-        }
-        res.send(response);
-      });
+      emailExists({ sender: "developer@emailhunt.in", recipient: email })
+        .then(function (result) {
+          if (result == "MAY_EXIST") {
+            res.render("index", { email: email, value: "Healthy" });
+          } else {
+            res.render("index", { email: email, value: "Unhealthy" });
+          }
+        })
+        .catch(function (err) {
+          res.send(err)
+        });
     }
   } catch (err) {
     console.log(err);
     res.send(err);
   }
 });
+
+// //V2
+// app.post("/validate/email", async function (req, res) {
+//   try {
+//     var email = req.body?.email;
+//     if (typeof email != "undefined") {
+//       emailExistence.check(email, function (error, response) {
+//         if (error) {
+//           console.log(error);
+//         }
+//         res.send(response);
+//       });
+//     }
+//   } catch (err) {
+//     console.log(err);
+//     res.send(err);
+//   }
+// });
 
 app.listen(port, () => console.log(`App listening on PROD ${port}!`));
