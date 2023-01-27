@@ -5,7 +5,7 @@ var verifier = require("email-verify");
 var infoCodes = verifier.infoCodes;
 
 //email existance
-var emailExistence = require("email-existence");
+const emailExists = require("email-exists");
 //Body parser
 var app = express();
 
@@ -33,7 +33,6 @@ var forms = multer();
 // //       console.log('Server is ready to take messages');
 // //   }
 // });
-
 
 app.use(bodyParser.json());
 app.use(forms.array());
@@ -96,46 +95,40 @@ function findemail(first_name, last_name, domain) {
   return emails;
 }
 
-app.get("/test/email", async function (req, res) {
-  verifier.verify( 'kushagra@level.game', function( err, info ){
-    if( err ) console.log(err);
-    else{
-      console.log( "Success (T/F): " + info.success );
-      console.log( "Info: " + info.info );
-  
-      //Info object returns a code which representing a state of validation:
-  
-      //Connected to SMTP server and finished email verification
-      console.log(info.code === infoCodes.finishedVerification);
-  
-      //Domain not found
-      console.log(info.code === infoCodes.domainNotFound);
-  
-      //Email is not valid
-      console.log(info.code === infoCodes.invalidEmailStructure);
-  
-      //No MX record in domain name
-      console.log(info.code === infoCodes.noMxRecords);
-  
-      //SMTP connection timeout
-      console.log(info.code === infoCodes.SMTPConnectionTimeout);
-  
-      //SMTP connection error
-      console.log(info.code === infoCodes.SMTPConnectionError)
+app.get("/find/email/list", async function (req, res) {
+  var first_name = "pratik";
+  var last_name = "khopkar";
+  var domain = "level.game";
+  var emails = await findemail(first_name, last_name, domain);
+  var valid_emails = [];
+  for (var i = 0; i < emails.length; i++) {
+    var check_email = await emailExists({
+      sender: "developer@emailhunt.in",
+      recipient: emails[i],
+    });
+    console.log(check_email);
+    if (check_email == "MAY_EXIST") {
+      valid_emails.push(emails[i]);
     }
-  });
+  }
+  res.send(valid_emails);
 });
 
 app.post("/validate/email", async function (req, res) {
   try {
     var email = req.body?.email;
     if (typeof email != "undefined") {
-      var info = await verifyEmail(email);
-      if (info.success == true) {
-        res.render("index", { email: email, value: "Healthy" });
-      } else {
-        res.render("index", { email: email, value: "Unhealthy" });
-      }
+      emailExists({ sender: "developer@emailhunt.in", recipient: email })
+        .then(function (result) {
+          if (result == "MAY_EXIST") {
+            res.render("index", { email: email, value: "Healthy" });
+          } else {
+            res.render("index", { email: email, value: "Unhealthy" });
+          }
+        })
+        .catch(function (err) {
+          res.send("Something went wrong");
+        });
     }
   } catch (err) {
     console.log(err);
