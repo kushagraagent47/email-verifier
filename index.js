@@ -115,21 +115,22 @@ app.post("/validate/email", async function (req, res) {
 });
 
 // //V2
-// app.post("/validate/email", async function (req, res) {
-//   try {
-//     var email = req.body?.email;
-//     if (typeof email != "undefined") {
-//       emailExistence.check(email, function (error, response) {
-//         if (error) {
-//           console.log(error);
-//         }
-//         res.send(response);
-//       });
-//     }
-//   } catch (err) {
-//     console.log(err);
-//     res.send(err);
-//   }
-// });
+app.post("/v1/validate/email", async function (req, res) {
+  try {
+    var email = req.body?.email;
+    if (typeof email != "undefined") {
+      emailExistence.check(email, function (error, response) {
+        if (error) {
+          console.log(error);
+          res.send(error)
+        }
+        res.send(response);
+      });
+    }
+  } catch (err) {
+    console.log(err);
+    res.send(err);
+  }
+});
 
 app.listen(port, () => console.log(`App listening on PROD ${port}!`));
