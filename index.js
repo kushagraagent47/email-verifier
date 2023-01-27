@@ -96,7 +96,7 @@ app.post("/validate/email", async function (req, res) {
   try {
     var email = req.body?.email;
     if (typeof email != "undefined") {
-      emailExists({ sender: "developer@emailhunt.in", recipient: email })
+      emailExists({ sender: "developer@emailhunt.in", recipient: email, debug: true })
         .then(function (result) {
           if (result == "MAY_EXIST") {
             res.render("index", { email: email, value: "Healthy" });
