@@ -5,10 +5,12 @@ const port = 8080;
 const emailExists = require("email-exists");
 //Body parser
 var app = express();
+var cors = require('cors')
 
 var bodyParser = require("body-parser");
 var multer = require("multer");
 var forms = multer();
+app.use(cors())
 
 var emailExistence = require("email-existence");
 
@@ -74,19 +76,21 @@ function findemail(first_name, last_name, domain) {
 }
 
 app.get("/find/email/list", async function (req, res) {
-  var first_name = "pratik    ";
-  var last_name = "khopkar";
-  var domain = "level.game";
-  var emails = await findemail(first_name, last_name, domain);
+  var first_name = "divya";
+  var last_name = "seth";
+  var domain = "marico.com";
+  var emails = findemail(first_name, last_name, domain);
   var valid_emails = [];
   for (var i = 0; i < emails.length; i++) {
     var check_email = await emailExists({
       sender: "developer@emailhunt.in",
       recipient: emails[i],
     });
-    console.log(check_email);
+    console.log(check_email + " " + emails[i]);
     if (check_email == "MAY_EXIST") {
       valid_emails.push(emails[i]);
+    } else {
+    	console.log("someissue")
     }
   }
   res.send(valid_emails);
@@ -123,8 +127,11 @@ app.post("/v1/validate/email", async function (req, res) {
         if (error) {
           console.log(error);
           res.send(error)
-        }
-        res.send(response);
+        } else if(response == true) {
+		res.send({message: true})
+	} else {
+		res.send({message:false})
+	}
       });
     }
   } catch (err) {
