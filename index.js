@@ -129,4 +129,37 @@ app.post("/v1/validate/email", async function (req, res) {
   }
 });
 
+app.get("/v1/validate/level/email", async function (req, res) {
+  try {
+    if (typeof req.query.email != "undefined") {
+      var email = req.query?.email;
+      let parts = email.split("@");
+      let domain = parts[1];
+      dns.lookup(domain, (err, address, family) => {
+        if (err) {
+          res.send({ message: false });
+        } else {
+          if (typeof email != "undefined") {
+            emailExistence.check(email, function (error, response) {
+              if (error) {
+                console.log(error);
+                res.send(error);
+              } else if (response == true) {
+                res.send({ message: true });
+              } else {
+                res.send({ message: false });
+              }
+            });
+          }
+        }
+      });
+    } else {
+      res.send({ message: false });
+    }
+  } catch (err) {
+    console.log(err);
+    res.send({ message: false });
+  }
+});
+
 app.listen(port, () => console.log(`App listening on PROD ${port}!`));
