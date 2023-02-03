@@ -18,6 +18,8 @@ app.use(bodyParser.json());
 app.use(forms.array());
 app.use(bodyParser.urlencoded({ extended: true }));
 
+const dns = require('dns');
+
 //View engine
 app.set("view engine", "ejs");
 
