@@ -76,24 +76,13 @@ function findemail(first_name, last_name, domain) {
 }
 
 app.get("/find/email/list", async function (req, res) {
-  var first_name = "divya";
-  var last_name = "seth";
-  var domain = "marico.com";
+  var first_name = "ashneer";
+  var last_name = "grover";
+  var domain = "third-unicorn.com";
   var emails = findemail(first_name, last_name, domain);
   var valid_emails = [];
-  for (var i = 0; i < emails.length; i++) {
-    var check_email = await emailExists({
-      sender: "developer@emailhunt.in",
-      recipient: emails[i],
-    });
-    console.log(check_email + " " + emails[i]);
-    if (check_email == "MAY_EXIST") {
-      valid_emails.push(emails[i]);
-    } else {
-    	console.log("someissue")
-    }
-  }
-  res.send(valid_emails);
+		
+  res.send(emails);
 });
 
 app.post("/validate/email", async function (req, res) {
