@@ -5,12 +5,12 @@ const port = 8080;
 const emailExists = require("email-exists");
 //Body parser
 var app = express();
-var cors = require('cors')
+var cors = require("cors");
 
 var bodyParser = require("body-parser");
 var multer = require("multer");
 var forms = multer();
-app.use(cors())
+app.use(cors());
 
 var emailExistence = require("email-existence");
 
@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 app.use(forms.array());
 app.use(bodyParser.urlencoded({ extended: true }));
 
-const dns = require('dns');
+const dns = require("dns");
 
 //View engine
 app.set("view engine", "ejs");
@@ -83,7 +83,7 @@ app.get("/find/email/list", async function (req, res) {
   var domain = "third-unicorn.com";
   var emails = findemail(first_name, last_name, domain);
   var valid_emails = [];
-		
+
   res.send(emails);
 });
 
@@ -91,7 +91,11 @@ app.post("/validate/email", async function (req, res) {
   try {
     var email = req.body?.email;
     if (typeof email != "undefined") {
-      emailExists({ sender: "developer@emailhunt.in", recipient: email, debug: true })
+      emailExists({
+        sender: "developer@emailhunt.in",
+        recipient: email,
+        debug: true,
+      })
         .then(function (result) {
           if (result == "MAY_EXIST") {
             res.render("index", { email: email, value: "Healthy" });
@@ -100,7 +104,7 @@ app.post("/validate/email", async function (req, res) {
           }
         })
         .catch(function (err) {
-          res.send(err)
+          res.send(err);
         });
     }
   } catch (err) {
@@ -117,17 +121,17 @@ app.post("/v1/validate/email", async function (req, res) {
       emailExistence.check(email, function (error, response) {
         if (error) {
           console.log(error);
-          res.send(error)
-        } else if(response == true) {
-		res.send({message: true})
-	} else {
-		res.send({message:false})
-	}
+          res.send(error);
+        } else if (response == true) {
+          res.send({ message: true });
+        } else {
+          res.send({ message: false });
+        }
       });
     }
   } catch (err) {
     console.log(err);
-    res.send(err);
+    res.send({ message: false });
   }
 });
 
@@ -137,17 +141,17 @@ app.get("/v1/validate/emails", async function (req, res) {
       var email = req.query?.email;
       let parts = email.split("@");
       let domain = parts[1];
-          if (typeof email != "undefined") {
-            emailExistence.check(email, function (error, response) {
-              if (error) {
-		res.send({ message: true });
-              } else if (response == true) {
-                res.send({ message: true });
-              } else {
-                res.send({ message: false });
-              }
-            });
+      if (typeof email != "undefined") {
+        emailExistence.check(email, function (error, response) {
+          if (error) {
+            res.send({ message: true });
+          } else if (response == true) {
+            res.send({ message: true });
+          } else {
+            res.send({ message: false });
           }
+        });
+      }
     } else {
       res.send({ message: false });
     }
