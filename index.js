@@ -144,7 +144,7 @@ app.get("/v1/validate/emails", async function (req, res) {
       if (typeof email != "undefined") {
         emailExistence.check(email, function (error, response) {
           if (error) {
-            res.send({ message: true });
+            res.send({ message: false });
           } else if (response == true) {
             res.send({ message: true });
           } else {
