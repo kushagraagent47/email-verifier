@@ -131,21 +131,16 @@ app.post("/v1/validate/email", async function (req, res) {
   }
 });
 
-app.get("/v1/validate/level/email", async function (req, res) {
+app.get("/v1/validate/emails", async function (req, res) {
   try {
     if (typeof req.query.email != "undefined") {
       var email = req.query?.email;
       let parts = email.split("@");
       let domain = parts[1];
-      dns.lookup(domain, (err, address, family) => {
-        if (err) {
-          res.send({ message: false });
-        } else {
           if (typeof email != "undefined") {
             emailExistence.check(email, function (error, response) {
               if (error) {
-                console.log(error);
-                res.send(error);
+		res.send({ message: true });
               } else if (response == true) {
                 res.send({ message: true });
               } else {
@@ -153,8 +148,6 @@ app.get("/v1/validate/level/email", async function (req, res) {
               }
             });
           }
-        }
-      });
     } else {
       res.send({ message: false });
     }
