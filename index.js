@@ -48,9 +48,6 @@ app.get("/v1/validate/emails", async function (req, res) {
         var check_website = "www." + check_website;
         var check_website_existance = await domainExists(check_website);
         if (check_website_existance == true) {
-          // const { valid } = await validate(email);
-          // var email_valid = valid;
-          // if (email_valid == true) {
           emailExistence.check(email, function (error, response) {
             if (error) {
               console.log(error);
@@ -61,10 +58,6 @@ app.get("/v1/validate/emails", async function (req, res) {
               res.send({ message: false });
             }
           });
-          // } else {
-          //   console.log(email_valid);
-          //   res.send({ message: "false here" });
-          // }
         } else {
           res.send({ message: false });
         }
