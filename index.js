@@ -51,15 +51,15 @@ app.get("/v1/validate/emails", async function (req, res) {
           emailExistence.check(email, function (error, response) {
             if (error) {
               console.log(error);
-              res.send({ message: false });
+              res.send("Wrong Email");
             } else if (response == true) {
-              res.send({ message: true });
+              res.send("Correct Email");
             } else {
-              res.send({ message: false });
+              res.send("Wrong Email");
             }
           });
         } else {
-          res.send({ message: false });
+          res.send("Wrong Email");
         }
       } catch (err) {
         console.error(err);

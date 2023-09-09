@@ -17,6 +17,8 @@
     "ejs": "^3.1.8",
     "email-existence": "^0.1.6",
     "email-exists": "^0.2.1",
+    "email-validator": "^2.0.4",
+    "email-validator-node": "^1.1.6",
     "email-verify": "^0.1.1",
     "express": "^4.18.2",
     "multer": "^1.4.5-lts.1",
