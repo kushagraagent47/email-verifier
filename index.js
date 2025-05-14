@@ -1,5 +1,5 @@
 var express = require("express");
-const port = 8080;
+const port = 8080 || process.env.PORT;
 
 //email existance
 const emailExists = require("email-exists");

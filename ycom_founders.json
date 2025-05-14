@@ -1,0 +1,5705 @@
+[
+  {
+    "company_name": "Eventual",
+    "founder_1_name": "Sammy Sidhu",
+    "website": "https://www.eventualcomputing.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Attain",
+    "founder_1_name": "Aamir Hudda",
+    "website": "https://joinattain.com/",
+    "founder_email": [
+      "aamir@joinattain.com"
+    ]
+  },
+  {
+    "company_name": "Freterium",
+    "founder_1_name": "Mehdi Cherif Alami",
+    "website": "https://www.freterium.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Betterhalf",
+    "founder_1_name": "Pawan Gupta",
+    "website": "https://betterhalf.ai",
+    "founder_email": [
+      "pawangupta@betterhalf.ai",
+      "pawan@betterhalf.ai"
+    ]
+  },
+  {
+    "company_name": "Draftaid",
+    "founder_1_name": "Mohammed Al-arnawoot",
+    "website": "https://draftaid.io/",
+    "founder_email": [
+      "mohammed@draftaid.io"
+    ]
+  },
+  {
+    "company_name": "Type",
+    "founder_1_name": "Stew Fortier",
+    "website": "https://type.ai",
+    "founder_email": [
+      "stew.fortier@type.ai",
+      "stewfortier@type.ai",
+      "stew@type.ai"
+    ]
+  },
+  {
+    "company_name": "PaletteHQ",
+    "founder_1_name": "Jean-Edern Lorillon",
+    "website": "https://palettehq.com/en",
+    "founder_email": [
+      "jeanedern@palettehq.com"
+    ]
+  },
+  {
+    "company_name": "Nextera Robotics",
+    "founder_1_name": "Lana Graf",
+    "website": "https://nexterarobotics.com",
+    "founder_email": [
+      "lana.graf@nexterarobotics.com",
+      "lanagraf@nexterarobotics.com",
+      "lana@nexterarobotics.com"
+    ]
+  },
+  {
+    "company_name": "Garage",
+    "founder_1_name": "Martin Hunt",
+    "website": "https://www.withgarage.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "JustPaid.ai",
+    "founder_1_name": "Daniel Kivatinos",
+    "website": "https://www.justpaid.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Glass Health",
+    "founder_1_name": "Dereck Paul",
+    "website": "http://glass.health",
+    "founder_email": [
+      "dereck@glass.health"
+    ]
+  },
+  {
+    "company_name": "Pivot Robotics",
+    "founder_1_name": "Siddharth Girdhar",
+    "website": "https://pivotrobotics.com",
+    "founder_email": [
+      "siddharth@pivotrobotics.com"
+    ]
+  },
+  {
+    "company_name": "VectorShift",
+    "founder_1_name": "Alexander Leonardi",
+    "website": "https://www.vectorshift.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Apollo",
+    "founder_1_name": "Tanmaay K",
+    "website": "https://www.apollofirst.xyz/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Workflow86",
+    "founder_1_name": "Aaron Tran",
+    "website": "https://www.workflow86.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Greywing",
+    "founder_1_name": "Nick Clarke",
+    "website": "https://grey-wing.com/",
+    "founder_email": [
+      "nick@grey-wing.com"
+    ]
+  },
+  {
+    "company_name": "Apprentice Health",
+    "founder_1_name": "Artur Menzeleev",
+    "website": "https://www.apprenticehealth.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Muffin Data",
+    "founder_1_name": "Andres Recalde",
+    "website": "http://www.muffindata.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Eloquent AI",
+    "founder_1_name": "Tugce Bulut",
+    "website": "https://www.eloquentai.co/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Pickle",
+    "founder_1_name": "Daniel Park",
+    "website": "https://www.pickle.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Swadesh",
+    "founder_1_name": "Prateek Swain",
+    "website": "http://www.swadesh.co",
+    "founder_email": null
+  },
+  {
+    "company_name": "Sprites",
+    "founder_1_name": "Siamak Freydoonnejad",
+    "website": "https://sprites.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "SAMMY Labs",
+    "founder_1_name": "Joe Savidge",
+    "website": "https://www.sammylabs.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Remo",
+    "founder_1_name": "Rabii Malik",
+    "website": "https://getremo.ai",
+    "founder_email": [
+      "rabii@getremo.ai"
+    ]
+  },
+  {
+    "company_name": "Dumps",
+    "founder_1_name": "Seth Harris",
+    "website": "https://dumps.app",
+    "founder_email": [
+      "seth@dumps.app"
+    ]
+  },
+  {
+    "company_name": "Martin",
+    "founder_1_name": "Dawson Chen",
+    "website": "https://www.trymartin.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Poly",
+    "founder_1_name": "Abhay Agarwal",
+    "website": "https://withpoly.com/",
+    "founder_email": [
+      "abhay@withpoly.com",
+      "abhayagarwal@withpoly.com",
+      "abhay.agarwal@withpoly.com"
+    ]
+  },
+  {
+    "company_name": "Shipmates",
+    "founder_1_name": "David Marquez",
+    "website": "https://shipmates.app",
+    "founder_email": [
+      "david@shipmates.app"
+    ]
+  },
+  {
+    "company_name": "Pirouette Pharma",
+    "founder_1_name": "Conor Cullinane",
+    "website": "https://www.pirouettepharma.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "nsave",
+    "founder_1_name": "Amer Baroudi",
+    "website": "https://www.nsave.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Albiware Inc.",
+    "founder_1_name": "Alex Duta",
+    "website": "https://www.albiware.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "SpruceID",
+    "founder_1_name": "Wayne Chang",
+    "website": "https://www.spruceid.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "BiteSight",
+    "founder_1_name": "Lucious McDaniel IV",
+    "website": "http://bitesight.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Vitalize Care",
+    "founder_1_name": "Veeraj Shah",
+    "website": "https://vitalize.care",
+    "founder_email": [
+      "veeraj@vitalize.care"
+    ]
+  },
+  {
+    "company_name": "Athina AI",
+    "founder_1_name": "Himanshu Bamoria",
+    "website": "https://athina.ai",
+    "founder_email": [
+      "himanshu@athina.ai"
+    ]
+  },
+  {
+    "company_name": "Aurelian",
+    "founder_1_name": "Max Keenan",
+    "website": "https://www.aurelian.io/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Vapi",
+    "founder_1_name": "Jordan Dearsley",
+    "website": "https://vapi.ai",
+    "founder_email": [
+      "jordan.dearsley@vapi.ai",
+      "jordan@vapi.ai"
+    ]
+  },
+  {
+    "company_name": "Adaptyv",
+    "founder_1_name": "Julian Englert",
+    "website": "https://www.adaptyvbio.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Biobot Analytics",
+    "founder_1_name": "Newsha Ghaeli",
+    "website": "http://biobot.io",
+    "founder_email": [
+      "newsha@biobot.io"
+    ]
+  },
+  {
+    "company_name": "Momentic",
+    "founder_1_name": "Wei-Wei Wu",
+    "website": "https://momentic.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "DianaHR",
+    "founder_1_name": "Upeka Bee",
+    "website": "http://www.dianahr.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Kalam Labs",
+    "founder_1_name": "Ahmad Faraaz",
+    "website": "http://www.kalamlabs.in",
+    "founder_email": null
+  },
+  {
+    "company_name": "Stacksync",
+    "founder_1_name": "Ruben Burdin",
+    "website": "https://www.stacksync.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Axiom.ai",
+    "founder_1_name": "Yaseer Sheriff",
+    "website": "https://axiom.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Replo",
+    "founder_1_name": "Yuxin Zhu",
+    "website": "https://replo.app/",
+    "founder_email": null
+  },
+  {
+    "company_name": "AgileMD",
+    "founder_1_name": "Borna Safabakhsh",
+    "website": "https://agilemd.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Axle",
+    "founder_1_name": "Cameron Duncan",
+    "website": "https://axle.insure",
+    "founder_email": null
+  },
+  {
+    "company_name": "Infisical",
+    "founder_1_name": "Vlad Matsiiako",
+    "website": "https://infisical.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Persana AI",
+    "founder_1_name": "Sriya Maram",
+    "website": "https://www.persana.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "HUD",
+    "founder_1_name": "Jay Ram",
+    "website": "https://hud.so",
+    "founder_email": null
+  },
+  {
+    "company_name": "Gradia Health",
+    "founder_1_name": "Rithvik Seela",
+    "website": "https://www.gradia.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Windmill",
+    "founder_1_name": "Ruben Fiszel",
+    "website": "https://windmill.dev",
+    "founder_email": null
+  },
+  {
+    "company_name": "Codes Health",
+    "founder_1_name": "Alvaro Rivera",
+    "website": "https://www.getcodeshealth.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Woz",
+    "founder_1_name": "Ben Collins",
+    "website": "https://withwoz.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Atomic Industries",
+    "founder_1_name": "Aaron Slodov",
+    "website": "http://atomic.industries",
+    "founder_email": null
+  },
+  {
+    "company_name": "Soff",
+    "founder_1_name": "Berni Hausleitner",
+    "website": "https://soff.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Kontigo",
+    "founder_1_name": "jesus alberto Castillo ferrer",
+    "website": "https://kontigo.lat/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Salient",
+    "founder_1_name": "Ari Malik",
+    "website": "https://www.trysalient.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Maritime Fusion",
+    "founder_1_name": "Justin Cohen",
+    "website": "https://maritimefusion.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Livedocs",
+    "founder_1_name": "Arsalan Bashir",
+    "website": "https://livedocs.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Toothy AI",
+    "founder_1_name": "Johnny Chen",
+    "website": "https://www.toothy.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Scrapybara",
+    "founder_1_name": "Nalin Semwal",
+    "website": "https://scrapybara.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Sendblue",
+    "founder_1_name": "Rob Haber",
+    "website": "https://www.sendblue.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "SID",
+    "founder_1_name": "Maximilian-David Rumpf",
+    "website": "https://www.sid.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Outtalent",
+    "founder_1_name": "Tilek Mamutov",
+    "website": "http://outtalent.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Airgoods",
+    "founder_1_name": "Aaron Farr",
+    "website": "https://airgoods.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Pier",
+    "founder_1_name": "Jessica Zhang",
+    "website": "http://www.pier-finance.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Coinrule",
+    "founder_1_name": "Gabriele Musella",
+    "website": "https://coinrule.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Koko",
+    "founder_1_name": "Rob Morris",
+    "website": "https://kokocares.org",
+    "founder_email": null
+  },
+  {
+    "company_name": "Shaped",
+    "founder_1_name": "Tullie Murrell",
+    "website": "https://shaped.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Alex",
+    "founder_1_name": "Daniel Edrisian",
+    "website": "https://alexcodes.app",
+    "founder_email": null
+  },
+  {
+    "company_name": "Levro",
+    "founder_1_name": "Cathy Han",
+    "website": "https://www.levro.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Vooma",
+    "founder_1_name": "Jesse Buckingham",
+    "website": "https://www.vooma.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Odys Aviation",
+    "founder_1_name": "James Dorris",
+    "website": "https://www.odysaviation.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "SafeBeat",
+    "founder_1_name": "Rachita Navara",
+    "website": "https://safebeat.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Fern",
+    "founder_1_name": "Danny Sheridan",
+    "website": "https://www.buildwithfern.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Zeta Surgical",
+    "founder_1_name": "Jose Amich",
+    "website": "http://zetasurgical.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Varos",
+    "founder_1_name": "Yarden Shaked",
+    "website": "http://varos.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Paradigm",
+    "founder_1_name": "Anna Monaco",
+    "website": "https://www.paradigmai.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Mintlify",
+    "founder_1_name": "Han Wang",
+    "website": "https://mintlify.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Litnerd",
+    "founder_1_name": "Anisa Mirza",
+    "website": "https://litnerd.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Shape (ShapeScale)",
+    "founder_1_name": "Martin Kessler",
+    "website": "https://shapescale.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "HyLight",
+    "founder_1_name": "Thomas Laporte",
+    "website": "https://www.hylight.aero/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Instant",
+    "founder_1_name": "Joe Averbukh",
+    "website": "https://instantdb.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Flair Labs",
+    "founder_1_name": "Samir Sen",
+    "website": "https://www.flairlabs.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Andson Biotech",
+    "founder_1_name": "Mason Chilmonczyk",
+    "website": "http://www.andsonbiotech.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Kaya",
+    "founder_1_name": "Brian Low",
+    "website": "https://www.usekaya.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Text Blaze",
+    "founder_1_name": "Dan Barak",
+    "website": "https://blaze.today",
+    "founder_email": null
+  },
+  {
+    "company_name": "Chariot",
+    "founder_1_name": "Salomon Serfati",
+    "website": "https://givechariot.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Auricle",
+    "founder_1_name": "Francis Wong",
+    "website": "https://auricle.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Topkey",
+    "founder_1_name": "Jonathan Sukhia",
+    "website": "https://www.topkey.io/",
+    "founder_email": null
+  },
+  {
+    "company_name": "RocketLit",
+    "founder_1_name": "Brendan Finch",
+    "website": "http://www.rocketlit.com",
+    "founder_email": [
+      "brendan@www.rocketlit.com",
+      "brendanfinch@www.rocketlit.com",
+      "brendan.finch@www.rocketlit.com"
+    ]
+  },
+  {
+    "company_name": "Zenbase AI",
+    "founder_1_name": "Cyrus Nouroozi",
+    "website": "https://zenbase.ai",
+    "founder_email": [
+      "cyrus@zenbase.ai"
+    ]
+  },
+  {
+    "company_name": "Findly",
+    "founder_1_name": "Jonathan Aeschlimann",
+    "website": "https://www.findly.ai/join",
+    "founder_email": null
+  },
+  {
+    "company_name": "Syntra",
+    "founder_1_name": "Ayush Jain",
+    "website": "https://www.syntra.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Kobalt Labs",
+    "founder_1_name": "Kalyani Ramadurgam",
+    "website": "https://www.kobaltlabs.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Lamar Health",
+    "founder_1_name": "Eesha Sharma",
+    "website": "http://www.lamarhealth.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "VoxOps AI",
+    "founder_1_name": "Stefan Vukcevic",
+    "website": "https://www.voxopsai.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "1stCollab",
+    "founder_1_name": "Leon Lin",
+    "website": "https://1stcollab.com/",
+    "founder_email": [
+      "leonlin@1stcollab.com",
+      "leon.lin@1stcollab.com",
+      "leon@1stcollab.com"
+    ]
+  },
+  {
+    "company_name": "Pirros",
+    "founder_1_name": "Ari Baranian",
+    "website": "http://pirros.com",
+    "founder_email": [
+      "ari@pirros.com"
+    ]
+  },
+  {
+    "company_name": "Kino AI",
+    "founder_1_name": "Luke Igel",
+    "website": "https://kino.ai",
+    "founder_email": [
+      "luke@kino.ai"
+    ]
+  },
+  {
+    "company_name": "OneStopKitchen",
+    "founder_1_name": "Vijayaraj Gopinath",
+    "website": "https://onestopkitchen.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Berry",
+    "founder_1_name": "Yan Fu",
+    "website": "https://berryai.com/",
+    "founder_email": [
+      "yan@berryai.com"
+    ]
+  },
+  {
+    "company_name": "Latent",
+    "founder_1_name": "Rishabh Jain",
+    "website": "https://latenthealth.com",
+    "founder_email": [
+      "rishabhjain@latenthealth.com",
+      "rishabh.jain@latenthealth.com",
+      "rishabh@latenthealth.com"
+    ]
+  },
+  {
+    "company_name": "Dialect",
+    "founder_1_name": "Chris Osborn",
+    "website": "https://dialect.to",
+    "founder_email": [
+      "chris@dialect.to"
+    ]
+  },
+  {
+    "company_name": "Helium",
+    "founder_1_name": "Zach Witzel",
+    "website": "https://tryhelium.com",
+    "founder_email": [
+      "zach@tryhelium.com"
+    ]
+  },
+  {
+    "company_name": "Theneo",
+    "founder_1_name": "Ana Robakidze",
+    "website": "https://theneo.io",
+    "founder_email": [
+      "ana@theneo.io"
+    ]
+  },
+  {
+    "company_name": "ProSights",
+    "founder_1_name": "Justin Wu",
+    "website": "https://prosights.co/",
+    "founder_email": [
+      "justinwu@prosights.co",
+      "justin@prosights.co",
+      "justin.wu@prosights.co"
+    ]
+  },
+  {
+    "company_name": "SciPhi",
+    "founder_1_name": "Owen Colegrove",
+    "website": "https://www.sciphi.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Topship",
+    "founder_1_name": "Moses Enenwali",
+    "website": "https://topship.africa/",
+    "founder_email": [
+      "moses@topship.africa"
+    ]
+  },
+  {
+    "company_name": "AlgoTest",
+    "founder_1_name": "Raghav Malik",
+    "website": "https://algotest.in",
+    "founder_email": [
+      "raghav@algotest.in"
+    ]
+  },
+  {
+    "company_name": "careCycle",
+    "founder_1_name": "Alex Doonanco",
+    "website": "https://www.careCycle.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Assembly HOA",
+    "founder_1_name": "Allen Liou",
+    "website": "https://assemblyhoa.com",
+    "founder_email": [
+      "allenliou@assemblyhoa.com",
+      "allen@assemblyhoa.com"
+    ]
+  },
+  {
+    "company_name": "Roger",
+    "founder_1_name": "Rithwik Pattikonda",
+    "website": "https://hireroger.com",
+    "founder_email": [
+      "rithwik@hireroger.com"
+    ]
+  },
+  {
+    "company_name": "Mino Games",
+    "founder_1_name": "Josh Buckley",
+    "website": "http://minomonsters.com",
+    "founder_email": [
+      "josh@minomonsters.com",
+      "josh.buckley@minomonsters.com",
+      "joshbuckley@minomonsters.com"
+    ]
+  },
+  {
+    "company_name": "Fella Health",
+    "founder_1_name": "Richie Cartwright",
+    "website": "https://www.fellahealth.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Stellar Sleep",
+    "founder_1_name": "George W",
+    "website": "https://stellarsleep.com/",
+    "founder_email": [
+      "george.w@stellarsleep.com",
+      "georgew@stellarsleep.com",
+      "george@stellarsleep.com"
+    ]
+  },
+  {
+    "company_name": "DryMerge",
+    "founder_1_name": "Edward Frazer",
+    "website": "https://www.drymerge.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Rivia.AI",
+    "founder_1_name": "Samay Jain",
+    "website": "https://rivia.ai",
+    "founder_email": [
+      "samay@rivia.ai"
+    ]
+  },
+  {
+    "company_name": "Recall.ai",
+    "founder_1_name": "David Gu",
+    "website": "https://www.recall.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Wattson Health",
+    "founder_1_name": "Justin Spitz",
+    "website": "https://www.wattsonhealth.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Helicone",
+    "founder_1_name": "Justin Torre",
+    "website": "https://www.helicone.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Koshex",
+    "founder_1_name": "Akash Agrawal",
+    "website": "https://www.koshex.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Decoda Health",
+    "founder_1_name": "Daniyal Afzal",
+    "website": "https://decodahealth.com/",
+    "founder_email": [
+      "daniyal@decodahealth.com"
+    ]
+  },
+  {
+    "company_name": "Argon AI, Inc.",
+    "founder_1_name": "Samy Danesh",
+    "website": "https://www.argon-ai.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Intryc",
+    "founder_1_name": "Alex Marantelos",
+    "website": "https://intryc.com",
+    "founder_email": [
+      "alex@intryc.com"
+    ]
+  },
+  {
+    "company_name": "Pangea.app",
+    "founder_1_name": "Adam Alpert",
+    "website": "https://www.pangea.app",
+    "founder_email": null
+  },
+  {
+    "company_name": "BusinessOnBot",
+    "founder_1_name": "Mohit Kumar",
+    "website": "https://www.businessonbot.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Arist",
+    "founder_1_name": "Michael Ioffe",
+    "website": "https://www.arist.co",
+    "founder_email": null
+  },
+  {
+    "company_name": "Deasy Labs",
+    "founder_1_name": "Reece Griffiths",
+    "website": "https://www.deasylabs.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Nabla Bio",
+    "founder_1_name": "Surge Biswas",
+    "website": "https://www.nabla.bio",
+    "founder_email": null
+  },
+  {
+    "company_name": "GroundControl",
+    "founder_1_name": "Matthew Noseworthy",
+    "website": "https://rungroundcontrol.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "CrowdVolt",
+    "founder_1_name": "Max Hammer",
+    "website": "https://crowdvolt.com/",
+    "founder_email": [
+      "max.hammer@crowdvolt.com",
+      "max@crowdvolt.com",
+      "maxhammer@crowdvolt.com"
+    ]
+  },
+  {
+    "company_name": "Gale",
+    "founder_1_name": "Rahul Gudise",
+    "website": "https://galevisa.com",
+    "founder_email": [
+      "rahul@galevisa.com"
+    ]
+  },
+  {
+    "company_name": "IcePanel",
+    "founder_1_name": "Jacob Shadbolt",
+    "website": "https://icepanel.io",
+    "founder_email": [
+      "jacob@icepanel.io"
+    ]
+  },
+  {
+    "company_name": "Astro Mechanica",
+    "founder_1_name": "Ian Brooke",
+    "website": "https://astromecha.co/",
+    "founder_email": [
+      "ian@astromecha.co"
+    ]
+  },
+  {
+    "company_name": "Backdrop",
+    "founder_1_name": "Akanksha Singh",
+    "website": "https://www.joinbackdrop.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Nextmv",
+    "founder_1_name": "Carolyn Mooney",
+    "website": "https://nextmv.io",
+    "founder_email": [
+      "carolyn.mooney@nextmv.io",
+      "carolyn@nextmv.io"
+    ]
+  },
+  {
+    "company_name": "Greenboard",
+    "founder_1_name": "Dave Feldman",
+    "website": "https://www.greenboard.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Ekho",
+    "founder_1_name": "Christopher Howard",
+    "website": "https://www.ekhodealer.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Beam",
+    "founder_1_name": "Eli Mernit",
+    "website": "https://beam.cloud",
+    "founder_email": [
+      "eli@beam.cloud"
+    ]
+  },
+  {
+    "company_name": "Artifact",
+    "founder_1_name": "Corbin Klett",
+    "website": "https://www.artifact.engineer/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Inventive AI",
+    "founder_1_name": "Dhiren Bhatia",
+    "website": "https://www.inventive.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Karsa",
+    "founder_1_name": "Shahryar Hasnani",
+    "website": "https://gokarsa.com/",
+    "founder_email": [
+      "shahryar@gokarsa.com"
+    ]
+  },
+  {
+    "company_name": "CoLoop",
+    "founder_1_name": "Jack Bowen",
+    "website": "https://coloop.ai/",
+    "founder_email": [
+      "jackbowen@coloop.ai",
+      "jack.bowen@coloop.ai",
+      "jack@coloop.ai"
+    ]
+  },
+  {
+    "company_name": "Ramen VR",
+    "founder_1_name": "Lauren Frazier",
+    "website": "https://ramenvr.com/",
+    "founder_email": [
+      "laurenfrazier@ramenvr.com",
+      "lauren.frazier@ramenvr.com",
+      "lauren@ramenvr.com"
+    ]
+  },
+  {
+    "company_name": "Relace",
+    "founder_1_name": "Preston Zhou",
+    "website": "https://relace.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Coulomb AI",
+    "founder_1_name": "Khushboo Shrivastava",
+    "website": "https://coulomb.ai/",
+    "founder_email": [
+      "khushboo@coulomb.ai"
+    ]
+  },
+  {
+    "company_name": "Fortuna Health",
+    "founder_1_name": "Cydney Kim",
+    "website": "https://fortunahealth.com/",
+    "founder_email": [
+      "cydney@fortunahealth.com"
+    ]
+  },
+  {
+    "company_name": "Infinity",
+    "founder_1_name": "Sourav Choraria",
+    "website": "https://www.infinityapp.in/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Concourse",
+    "founder_1_name": "Matthieu Hafemeister",
+    "website": "https://concourse.co/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Glimpse",
+    "founder_1_name": "Akash Raju",
+    "website": "https://tryglimpse.com/",
+    "founder_email": [
+      "akash@tryglimpse.com"
+    ]
+  },
+  {
+    "company_name": "Strong Compute",
+    "founder_1_name": "Ben Sand",
+    "website": "https://strongcompute.com",
+    "founder_email": [
+      "ben@strongcompute.com"
+    ]
+  },
+  {
+    "company_name": "Dime",
+    "founder_1_name": "Ashish Bajaj",
+    "website": "https://www.dimemanufacturing.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Cerulion",
+    "founder_1_name": "Lakshay Sharma",
+    "website": "https://www.cerulion.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "camfer",
+    "founder_1_name": "Arya Bastani",
+    "website": "https://www.camfer.dev/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Entangl",
+    "founder_1_name": "Shapol M",
+    "website": "https://www.entangl.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "OneText",
+    "founder_1_name": "Jonathan Fudem",
+    "website": "https://onetext.com",
+    "founder_email": [
+      "jonathanfudem@onetext.com",
+      "jonathan@onetext.com"
+    ]
+  },
+  {
+    "company_name": "Coperniq",
+    "founder_1_name": "Abdullah Al Zandani",
+    "website": "https://coperniq.io",
+    "founder_email": null
+  },
+  {
+    "company_name": "Infinia",
+    "founder_1_name": "Ianai Urwicz",
+    "website": "https://www.infiniaweb.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Homebase",
+    "founder_1_name": "Phillip An",
+    "website": "http://www.gethomebase.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "MindFi",
+    "founder_1_name": "Bjorn Lee",
+    "website": "https://www.mindfi.co",
+    "founder_email": null
+  },
+  {
+    "company_name": "authzed",
+    "founder_1_name": "Jake Moshenko",
+    "website": "https://authzed.com",
+    "founder_email": [
+      "jakemoshenko@authzed.com",
+      "jake.moshenko@authzed.com",
+      "jake@authzed.com"
+    ]
+  },
+  {
+    "company_name": "Extend",
+    "founder_1_name": "Kushal Byatnal",
+    "website": "https://www.extend.app/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Dart",
+    "founder_1_name": "Milad Malek",
+    "website": "https://itsdart.com",
+    "founder_email": [
+      "milad.malek@itsdart.com",
+      "miladmalek@itsdart.com",
+      "milad@itsdart.com"
+    ]
+  },
+  {
+    "company_name": "a0.dev",
+    "founder_1_name": "Seth Setse",
+    "website": "https://a0.dev",
+    "founder_email": [
+      "seth@a0.dev"
+    ]
+  },
+  {
+    "company_name": "TrueClaim",
+    "founder_1_name": "Barbora Howell",
+    "website": "https://www.trytrueclaim.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Strive Math",
+    "founder_1_name": "Pulkit Agarwal",
+    "website": "https://www.strivemath.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Agapé",
+    "founder_1_name": "Kadie Okwudili",
+    "website": "https://www.getdailyagape.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Aglide",
+    "founder_1_name": "Patrick D. McGuckian",
+    "website": "https://aglide.com",
+    "founder_email": [
+      "patrickmcguckian@aglide.com",
+      "patrick.mcguckian@aglide.com",
+      "patrick@aglide.com"
+    ]
+  },
+  {
+    "company_name": "Sameday",
+    "founder_1_name": "Aaron Cooper",
+    "website": "https://www.gosameday.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Stackup",
+    "founder_1_name": "John Rising",
+    "website": "https://www.stackup.fi",
+    "founder_email": null
+  },
+  {
+    "company_name": "Netomi",
+    "founder_1_name": "Puneet Mehta",
+    "website": "https://netomi.com",
+    "founder_email": [
+      "puneet@netomi.com",
+      "puneetmehta@netomi.com"
+    ]
+  },
+  {
+    "company_name": "Senso",
+    "founder_1_name": "Saroop Bharwani",
+    "website": "http://www.senso.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Stream",
+    "founder_1_name": "Eric Yen",
+    "website": "http://www.stream.claims",
+    "founder_email": null
+  },
+  {
+    "company_name": "Stably AI",
+    "founder_1_name": "Jinjing Liang",
+    "website": "https://www.stably.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Trueplace",
+    "founder_1_name": "Jovan Choongh",
+    "website": "https://www.trueplace.ca/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Atla",
+    "founder_1_name": "Maurice Burger",
+    "website": "https://www.atla-ai.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Seis",
+    "founder_1_name": "Trevor McKendrick",
+    "website": "https://www.seis.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Chima",
+    "founder_1_name": "Nikhara Nirghin",
+    "website": "https://www.withchima.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "goodfin",
+    "founder_1_name": "Anna Joo Fee",
+    "website": "http://www.goodfin.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Magna",
+    "founder_1_name": "Bruno Faviero",
+    "website": "https://magna.so",
+    "founder_email": [
+      "bruno.faviero@magna.so",
+      "brunofaviero@magna.so",
+      "bruno@magna.so"
+    ]
+  },
+  {
+    "company_name": "Seam",
+    "founder_1_name": "Dawn Ho",
+    "website": "https://seam.co",
+    "founder_email": [
+      "dawnho@seam.co",
+      "dawn.ho@seam.co",
+      "dawn@seam.co"
+    ]
+  },
+  {
+    "company_name": "sync.",
+    "founder_1_name": "Prady Modukuru",
+    "website": "https://sync.so/",
+    "founder_email": [
+      "prady@sync.so"
+    ]
+  },
+  {
+    "company_name": "DreamWorld",
+    "founder_1_name": "Garrison Bellack",
+    "website": "https://www.playdreamworld.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Reform",
+    "founder_1_name": "Saif Abuhashish",
+    "website": "https://www.reformhq.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Beanstalk",
+    "founder_1_name": "Jack Ross",
+    "website": "http://beanstalk.farm",
+    "founder_email": [
+      "jackross@beanstalk.farm",
+      "jack.ross@beanstalk.farm",
+      "jack@beanstalk.farm"
+    ]
+  },
+  {
+    "company_name": "Spot Health",
+    "founder_1_name": "Andrew Jajack",
+    "website": "https://spotdx.com",
+    "founder_email": [
+      "andrew@spotdx.com"
+    ]
+  },
+  {
+    "company_name": "Wordware",
+    "founder_1_name": "Filip Kozera",
+    "website": "https://wordware.ai/",
+    "founder_email": [
+      "filip@wordware.ai"
+    ]
+  },
+  {
+    "company_name": "Powder",
+    "founder_1_name": "Kanishk Parashar",
+    "website": "https://www.powderfi.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "ZeroEntropy",
+    "founder_1_name": "Ghita Houir Alami",
+    "website": "https://www.zeroentropy.dev",
+    "founder_email": null
+  },
+  {
+    "company_name": "GovDash",
+    "founder_1_name": "Sean Doherty",
+    "website": "https://govdash.com/",
+    "founder_email": [
+      "seandoherty@govdash.com",
+      "sean.doherty@govdash.com",
+      "sean@govdash.com"
+    ]
+  },
+  {
+    "company_name": "HER",
+    "founder_1_name": "Robyn Exton",
+    "website": "http://weareher.com",
+    "founder_email": [
+      "robyn@weareher.com",
+      "robyn.exton@weareher.com"
+    ]
+  },
+  {
+    "company_name": "Rollstack",
+    "founder_1_name": "Nabil Jallouli",
+    "website": "https://www.rollstack.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Corvus Robotics",
+    "founder_1_name": "Jonathan Sandau",
+    "website": "https://www.corvus-robotics.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Piramidal",
+    "founder_1_name": "Dimitris Fotis Sakellariou",
+    "website": "https://piramidal.ai",
+    "founder_email": [
+      "dimitris@piramidal.ai"
+    ]
+  },
+  {
+    "company_name": "Diligent",
+    "founder_1_name": "Edoardo Maschio",
+    "website": "https://godiligent.ai",
+    "founder_email": [
+      "edoardo@godiligent.ai"
+    ]
+  },
+  {
+    "company_name": "Svix",
+    "founder_1_name": "Tom Hacohen",
+    "website": "https://www.svix.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Storyworth",
+    "founder_1_name": "Nick Baum",
+    "website": "https://www.storyworth.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "HeyCharge",
+    "founder_1_name": "Chris Carde",
+    "website": "https://heycharge.com/",
+    "founder_email": [
+      "chriscarde@heycharge.com",
+      "chris.carde@heycharge.com",
+      "chris@heycharge.com"
+    ]
+  },
+  {
+    "company_name": "Medicare Vox (fka Fair Square)",
+    "founder_1_name": "Daniel Petkevich",
+    "website": "https://www.medicarevox.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "OffDeal",
+    "founder_1_name": "Ori Eldarov",
+    "website": "https://offdeal.io",
+    "founder_email": [
+      "orieldarov@offdeal.io",
+      "ori.eldarov@offdeal.io",
+      "ori@offdeal.io"
+    ]
+  },
+  {
+    "company_name": "MediSearch",
+    "founder_1_name": "Eduard Oravkin",
+    "website": "https://medisearch.io",
+    "founder_email": [
+      "eduard.oravkin@medisearch.io",
+      "eduardoravkin@medisearch.io",
+      "eduard@medisearch.io"
+    ]
+  },
+  {
+    "company_name": "Arva AI",
+    "founder_1_name": "Rhim Shah",
+    "website": "https://www.arva.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Hadrius",
+    "founder_1_name": "Thomas Stewart",
+    "website": "https://www.hadrius.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Hey Revia",
+    "founder_1_name": "Shaun Wei",
+    "website": "https://heyrevia.ai",
+    "founder_email": [
+      "shaun@heyrevia.ai"
+    ]
+  },
+  {
+    "company_name": "Voltic",
+    "founder_1_name": "Prosser Cathey",
+    "website": "https://volticshipping.com/",
+    "founder_email": [
+      "prosser.cathey@volticshipping.com",
+      "prosser@volticshipping.com",
+      "prossercathey@volticshipping.com"
+    ]
+  },
+  {
+    "company_name": "Yondu",
+    "founder_1_name": "Michael Chen",
+    "website": "https://yondu.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Dot",
+    "founder_1_name": "Theo Tortorici",
+    "website": "https://getdot.ai",
+    "founder_email": [
+      "theotortorici@getdot.ai",
+      "theo.tortorici@getdot.ai",
+      "theo@getdot.ai"
+    ]
+  },
+  {
+    "company_name": "Tabular",
+    "founder_1_name": "Tim Hermes",
+    "website": "https://www.gotabular.de/en/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Ember",
+    "founder_1_name": "Charlene Wang",
+    "website": "https://www.embercopilot.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Openmart",
+    "founder_1_name": "Richard He",
+    "website": "https://www.openmart.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Variant",
+    "founder_1_name": "Benjamin South Lee",
+    "website": "https://variant.ai",
+    "founder_email": [
+      "benjamin@variant.ai"
+    ]
+  },
+  {
+    "company_name": "Toko",
+    "founder_1_name": "Jen Liu",
+    "website": "https://tokotutor.com/",
+    "founder_email": [
+      "jen.liu@tokotutor.com",
+      "jenliu@tokotutor.com",
+      "jen@tokotutor.com"
+    ]
+  },
+  {
+    "company_name": "UpCodes",
+    "founder_1_name": "Garrett Reynolds",
+    "website": "https://up.codes/",
+    "founder_email": [
+      "garrett.reynolds@up.codes",
+      "garrettreynolds@up.codes",
+      "garrett@up.codes"
+    ]
+  },
+  {
+    "company_name": "Onyx",
+    "founder_1_name": "Yuhong Sun",
+    "website": "https://www.onyx.app/",
+    "founder_email": null
+  },
+  {
+    "company_name": "OWNY",
+    "founder_1_name": "Umed Latifov",
+    "website": "https://www.owny.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Reditus Space",
+    "founder_1_name": "Stef Crum",
+    "website": "https://www.reditus.space/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Capitol AI",
+    "founder_1_name": "Shaun Modi",
+    "website": "https://www.capitol.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "inBuild",
+    "founder_1_name": "Ty Sharp",
+    "website": "https://www.inbuild.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Ultra",
+    "founder_1_name": "Jon Miller Schwartz",
+    "website": "https://ultra.tech",
+    "founder_email": [
+      "jon@ultra.tech"
+    ]
+  },
+  {
+    "company_name": "Sapling.ai",
+    "founder_1_name": "Ziang Xie",
+    "website": "https://sapling.ai",
+    "founder_email": [
+      "ziang@sapling.ai"
+    ]
+  },
+  {
+    "company_name": "Status",
+    "founder_1_name": "Fai Nur",
+    "website": "https://apps.apple.com/us/app/status-sims-but-social-media/id6596771144",
+    "founder_email": null
+  },
+  {
+    "company_name": "Shadeform",
+    "founder_1_name": "Ed Goode",
+    "website": "https://www.shadeform.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Infinite",
+    "founder_1_name": "Nikhil Srinivasan",
+    "website": "https://infinite.dev",
+    "founder_email": [
+      "nikhilsrinivasan@infinite.dev",
+      "nikhil@infinite.dev",
+      "nikhil.srinivasan@infinite.dev"
+    ]
+  },
+  {
+    "company_name": "Elayne",
+    "founder_1_name": "Adria Ferrier",
+    "website": "https://www.elayne.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Zensors",
+    "founder_1_name": "Anuraag Jain",
+    "website": "https://www.zensors.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Ziina",
+    "founder_1_name": "Sarah Toukan",
+    "website": "https://www.ziina.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "AstroForge",
+    "founder_1_name": "Matt Gialich",
+    "website": "https://www.astroforge.io/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Tiptap",
+    "founder_1_name": "Philip Isik",
+    "website": "https://tiptap.dev/",
+    "founder_email": [
+      "philip.isik@tiptap.dev"
+    ]
+  },
+  {
+    "company_name": "Juicebox",
+    "founder_1_name": "David Paffenholz",
+    "website": "https://juicebox.ai/",
+    "founder_email": [
+      "david@juicebox.ai"
+    ]
+  },
+  {
+    "company_name": "Kivo Health",
+    "founder_1_name": "Victor Sadauskas",
+    "website": "https://kivohealth.com",
+    "founder_email": [
+      "victor.sadauskas@kivohealth.com",
+      "victor@kivohealth.com"
+    ]
+  },
+  {
+    "company_name": "Cair Health",
+    "founder_1_name": "Shehbaz Virk",
+    "website": "https://www.cairhealth.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Lume",
+    "founder_1_name": "Robert Ross",
+    "website": "https://www.lume.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Reworkd",
+    "founder_1_name": "Asim Shrestha",
+    "website": "https://reworkd.ai",
+    "founder_email": [
+      "asim@reworkd.ai"
+    ]
+  },
+  {
+    "company_name": "HappyRobot",
+    "founder_1_name": "Pablo Palafox",
+    "website": "https://happyrobot.ai",
+    "founder_email": [
+      "pablo@happyrobot.ai",
+      "pablo.palafox@happyrobot.ai"
+    ]
+  },
+  {
+    "company_name": "AviaryAI",
+    "founder_1_name": "Blesson Abraham",
+    "website": "http://www.helloaviary.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Retrofit",
+    "founder_1_name": "Sandra Lifshits",
+    "website": "https://www.retrofit.shop/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Posh",
+    "founder_1_name": "Wesley Zheng",
+    "website": "https://www.poshenergy.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Typewise",
+    "founder_1_name": "David Eberle",
+    "website": "https://typewise.app",
+    "founder_email": [
+      "david.eberle@typewise.app",
+      "david@typewise.app"
+    ]
+  },
+  {
+    "company_name": "Overlap",
+    "founder_1_name": "Jonathan Baer",
+    "website": "https://www.joinoverlap.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Axross Pte Ltd",
+    "founder_1_name": "Yih Lin Teh",
+    "website": "https://www.axross.co/",
+    "founder_email": null
+  },
+  {
+    "company_name": "OmniAI",
+    "founder_1_name": "Tyler Maran",
+    "website": "https://getomni.ai",
+    "founder_email": [
+      "tyler.maran@getomni.ai",
+      "tyler@getomni.ai",
+      "tylermaran@getomni.ai"
+    ]
+  },
+  {
+    "company_name": "Clad",
+    "founder_1_name": "Jason Rudin",
+    "website": "https://withclad.com/",
+    "founder_email": [
+      "jasonrudin@withclad.com",
+      "jason.rudin@withclad.com",
+      "jason@withclad.com"
+    ]
+  },
+  {
+    "company_name": "Onsite Pro",
+    "founder_1_name": "Gautam Jayaraman",
+    "website": "https://onsitepro.co",
+    "founder_email": [
+      "gautam.jayaraman@onsitepro.co",
+      "gautamjayaraman@onsitepro.co",
+      "gautam@onsitepro.co"
+    ]
+  },
+  {
+    "company_name": "Zen",
+    "founder_1_name": "Daniel James",
+    "website": "https://lnkd.in/dgH2xxBJ",
+    "founder_email": null
+  },
+  {
+    "company_name": "Axle Health",
+    "founder_1_name": "Adam Stansell",
+    "website": "https://www.axlehealth.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Subtrace",
+    "founder_1_name": "Adhityaa Chandrasekar",
+    "website": "https://subtrace.dev",
+    "founder_email": [
+      "adhityaa@subtrace.dev"
+    ]
+  },
+  {
+    "company_name": "Dream3D",
+    "founder_1_name": "Tony Francis",
+    "website": "https://dream3d.com",
+    "founder_email": [
+      "tony@dream3d.com"
+    ]
+  },
+  {
+    "company_name": "Strac",
+    "founder_1_name": "Aatish Mandelecha",
+    "website": "https://www.strac.io/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Phonely",
+    "founder_1_name": "Will B",
+    "website": "https://phonely.ai",
+    "founder_email": [
+      "will@phonely.ai"
+    ]
+  },
+  {
+    "company_name": "GovEagle",
+    "founder_1_name": "Akash Mandavilli",
+    "website": "https://www.goveagle.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Sample",
+    "founder_1_name": "Ankit Ranjan",
+    "website": "https://samplehc.com",
+    "founder_email": [
+      "ankitranjan@samplehc.com",
+      "ankit@samplehc.com",
+      "ankit.ranjan@samplehc.com"
+    ]
+  },
+  {
+    "company_name": "Dots 💸",
+    "founder_1_name": "Sahil Hasan",
+    "website": "https://dots.dev",
+    "founder_email": [
+      "sahil.hasan@dots.dev",
+      "sahil@dots.dev",
+      "sahilhasan@dots.dev"
+    ]
+  },
+  {
+    "company_name": "LazyEditor",
+    "founder_1_name": "Akash Gupta",
+    "website": "https://www.lazyeditor.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "EasyCode",
+    "founder_1_name": "James Jiang",
+    "website": "https://www.easycode.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Truss",
+    "founder_1_name": "matthew smith",
+    "website": "https://trusspayments.com",
+    "founder_email": [
+      "matthew@trusspayments.com",
+      "matthew.smith@trusspayments.com",
+      "matthewsmith@trusspayments.com"
+    ]
+  },
+  {
+    "company_name": "OpenUnit",
+    "founder_1_name": "Taylor Cooney",
+    "website": "https://www.openunit.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Just Words",
+    "founder_1_name": "Neha Mittal",
+    "website": "https://justwords.ai",
+    "founder_email": [
+      "neha@justwords.ai"
+    ]
+  },
+  {
+    "company_name": "Recover",
+    "founder_1_name": "Nick Gulino",
+    "website": "https://www.letsrecover.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Asteroid",
+    "founder_1_name": "David Mlcoch",
+    "website": "https://asteroid.ai",
+    "founder_email": [
+      "david@asteroid.ai"
+    ]
+  },
+  {
+    "company_name": "Firecrawl",
+    "founder_1_name": "Caleb Peffer",
+    "website": "https://www.firecrawl.dev",
+    "founder_email": null
+  },
+  {
+    "company_name": "yhangry",
+    "founder_1_name": "Heinin Zhang",
+    "website": "http://www.yhangry.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Tamarind Bio",
+    "founder_1_name": "Deniz Kavi",
+    "website": "https://www.tamarind.bio",
+    "founder_email": null
+  },
+  {
+    "company_name": "ClaimSorted",
+    "founder_1_name": "Pavel Gertsberg",
+    "website": "https://claimsorted.com",
+    "founder_email": [
+      "pavel@claimsorted.com"
+    ]
+  },
+  {
+    "company_name": "Sphere",
+    "founder_1_name": "Nicholas Rudder",
+    "website": "https://www.getsphere.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Vellum",
+    "founder_1_name": "Akash Sharma",
+    "website": "https://www.vellum.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "BuildBuddy",
+    "founder_1_name": "Siggi Simonarson",
+    "website": "https://buildbuddy.io",
+    "founder_email": [
+      "siggi.simonarson@buildbuddy.io",
+      "siggisimonarson@buildbuddy.io",
+      "siggi@buildbuddy.io"
+    ]
+  },
+  {
+    "company_name": "PiinPoint",
+    "founder_1_name": "Jim Robeson",
+    "website": "https://piinpoint.com",
+    "founder_email": [
+      "jim.robeson@piinpoint.com",
+      "jimrobeson@piinpoint.com",
+      "jim@piinpoint.com"
+    ]
+  },
+  {
+    "company_name": "Maihem",
+    "founder_1_name": "Max Ahrens",
+    "website": "https://www.maihem.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Atlas",
+    "founder_1_name": "Patrick Mrozowski",
+    "website": "https://atlascard.com",
+    "founder_email": [
+      "patrickmrozowski@atlascard.com",
+      "patrick@atlascard.com",
+      "patrick.mrozowski@atlascard.com"
+    ]
+  },
+  {
+    "company_name": "Rally",
+    "founder_1_name": "Rally",
+    "website": "https://rally.video",
+    "founder_email": null
+  },
+  {
+    "company_name": "Waypoint Transit",
+    "founder_1_name": "Varun Tandon",
+    "website": "https://waypointtransit.com",
+    "founder_email": [
+      "varun@waypointtransit.com"
+    ]
+  },
+  {
+    "company_name": "FrontPage",
+    "founder_1_name": "Avijit Sharma",
+    "website": "https://front.page",
+    "founder_email": [
+      "avijit@front.page"
+    ]
+  },
+  {
+    "company_name": "Axiom",
+    "founder_1_name": "Henry Zhang",
+    "website": "https://axiom.trade",
+    "founder_email": null
+  },
+  {
+    "company_name": "Measured",
+    "founder_1_name": "Monji Dolon",
+    "website": "https://trymeasured.com/",
+    "founder_email": [
+      "monjidolon@trymeasured.com",
+      "monji.dolon@trymeasured.com",
+      "monji@trymeasured.com"
+    ]
+  },
+  {
+    "company_name": "Compose.ai",
+    "founder_1_name": "Michael Shuffett",
+    "website": "https://compose.ai",
+    "founder_email": [
+      "michael@compose.ai",
+      "michaelshuffett@compose.ai"
+    ]
+  },
+  {
+    "company_name": "Langfuse",
+    "founder_1_name": "Marc Klingen",
+    "website": "https://langfuse.com",
+    "founder_email": [
+      "marcklingen@langfuse.com",
+      "marc@langfuse.com",
+      "marc.klingen@langfuse.com"
+    ]
+  },
+  {
+    "company_name": "Solidroad",
+    "founder_1_name": "Mark Hughes",
+    "website": "https://solidroad.com",
+    "founder_email": [
+      "mark@solidroad.com"
+    ]
+  },
+  {
+    "company_name": "Every",
+    "founder_1_name": "Rajeev Behera",
+    "website": "https://every.io/",
+    "founder_email": [
+      "rajeevbehera@every.io",
+      "rajeev@every.io"
+    ]
+  },
+  {
+    "company_name": "OneSchema",
+    "founder_1_name": "Andrew Luo",
+    "website": "https://www.oneschema.co",
+    "founder_email": null
+  },
+  {
+    "company_name": "xPay",
+    "founder_1_name": "Aniket Gupta",
+    "website": "https://www.xpaycheckout.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Playground",
+    "founder_1_name": "Suhail Doshi",
+    "website": "https://playground.com",
+    "founder_email": [
+      "suhail@playground.com"
+    ]
+  },
+  {
+    "company_name": "Conduit",
+    "founder_1_name": "Conrad Lilleness",
+    "website": "http://helloconduit.com",
+    "founder_email": [
+      "conrad.lilleness@helloconduit.com",
+      "conrad@helloconduit.com",
+      "conradlilleness@helloconduit.com"
+    ]
+  },
+  {
+    "company_name": "Bot MD",
+    "founder_1_name": "Dorothea Koh",
+    "website": "https://www.botmd.io",
+    "founder_email": null
+  },
+  {
+    "company_name": "Accord",
+    "founder_1_name": "Ross Rich",
+    "website": "https://inaccord.com",
+    "founder_email": [
+      "ross@inaccord.com",
+      "ross.rich@inaccord.com"
+    ]
+  },
+  {
+    "company_name": "PrimeVault",
+    "founder_1_name": "Prashant Upadhyay",
+    "website": "https://www.primevault.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Ploomber",
+    "founder_1_name": "Eduardo Blancas",
+    "website": "https://ploomber.io/",
+    "founder_email": [
+      "eduardo@ploomber.io"
+    ]
+  },
+  {
+    "company_name": "Float Health",
+    "founder_1_name": "Ryan Johnson",
+    "website": "https://floathealth.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Index",
+    "founder_1_name": "Xavier Pladevall",
+    "website": "https://index.app",
+    "founder_email": [
+      "xavier.pladevall@index.app",
+      "xavierpladevall@index.app",
+      "xavier@index.app"
+    ]
+  },
+  {
+    "company_name": "K-Scale Labs",
+    "founder_1_name": "Benjamin Bolte",
+    "website": "https://kscale.dev/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Pactima",
+    "founder_1_name": "Moktar Yusuf",
+    "website": "https://pactima.com/",
+    "founder_email": [
+      "moktar@pactima.com"
+    ]
+  },
+  {
+    "company_name": "Sorcerer",
+    "founder_1_name": "Austin Tindle",
+    "website": "https://sorcerer.earth",
+    "founder_email": [
+      "austin@sorcerer.earth"
+    ]
+  },
+  {
+    "company_name": "Pointhound",
+    "founder_1_name": "Jay Reno",
+    "website": "http://www.pointhound.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Flockjay",
+    "founder_1_name": "Shaan Hathiramani",
+    "website": "https://flockjay.com",
+    "founder_email": [
+      "shaan@flockjay.com"
+    ]
+  },
+  {
+    "company_name": "SigmaOS",
+    "founder_1_name": "Mahyad G",
+    "website": "https://www.sigmaos.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Credal.ai",
+    "founder_1_name": "Ravin Thambapillai",
+    "website": "https://credal.ai",
+    "founder_email": [
+      "ravin@credal.ai"
+    ]
+  },
+  {
+    "company_name": "Exa Laboratories",
+    "founder_1_name": "Elias Almqvist",
+    "website": "https://exalaboratories.com",
+    "founder_email": [
+      "eliasalmqvist@exalaboratories.com",
+      "elias.almqvist@exalaboratories.com",
+      "elias@exalaboratories.com"
+    ]
+  },
+  {
+    "company_name": "AiPrise",
+    "founder_1_name": "Chaitanya Sarda",
+    "website": "https://aiprise.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Harper",
+    "founder_1_name": "Dakotah Rice",
+    "website": "https://www.harperinsure.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Circleback",
+    "founder_1_name": "Ali Haghani",
+    "website": "https://circleback.ai",
+    "founder_email": [
+      "ali.haghani@circleback.ai",
+      "alihaghani@circleback.ai",
+      "ali@circleback.ai"
+    ]
+  },
+  {
+    "company_name": "Casca",
+    "founder_1_name": "Lukas Haffer",
+    "website": "https://www.cascading.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Valo",
+    "founder_1_name": "Jeremy Osborne",
+    "website": "http://ridevalo.com",
+    "founder_email": [
+      "jeremyosborne@ridevalo.com",
+      "jeremy.osborne@ridevalo.com",
+      "jeremy@ridevalo.com"
+    ]
+  },
+  {
+    "company_name": "Guac",
+    "founder_1_name": "Euro Wang",
+    "website": "https://www.guac-ai.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Neodocs",
+    "founder_1_name": "Nikunj Malpani",
+    "website": "https://www.neodocs.in",
+    "founder_email": null
+  },
+  {
+    "company_name": "BoldVoice",
+    "founder_1_name": "Anada Lakra",
+    "website": "https://boldvoice.com",
+    "founder_email": [
+      "anadalakra@boldvoice.com",
+      "anada.lakra@boldvoice.com",
+      "anada@boldvoice.com"
+    ]
+  },
+  {
+    "company_name": "Archil",
+    "founder_1_name": "Hunter Leath",
+    "website": "https://archil.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Devyce",
+    "founder_1_name": "Nick Browne",
+    "website": "https://devyce.com",
+    "founder_email": [
+      "nick.browne@devyce.com",
+      "nick@devyce.com"
+    ]
+  },
+  {
+    "company_name": "Rejoy Health",
+    "founder_1_name": "Rituraj Yadav",
+    "website": "https://www.rejoyhealth.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Empirical Health",
+    "founder_1_name": "Brandon Ballinger",
+    "website": "https://empirical.health",
+    "founder_email": null
+  },
+  {
+    "company_name": "Versable",
+    "founder_1_name": "Christina Seong",
+    "website": "https://www.versableai.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Patterns",
+    "founder_1_name": "Chris Stanley",
+    "website": "https://patterns.app/",
+    "founder_email": [
+      "chris@patterns.app"
+    ]
+  },
+  {
+    "company_name": "Apriora",
+    "founder_1_name": "Aaron Wang",
+    "website": "https://www.apriora.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Ciro",
+    "founder_1_name": "Ross Geiger",
+    "website": "https://www.ciro.io/",
+    "founder_email": null
+  },
+  {
+    "company_name": "The Juggernaut",
+    "founder_1_name": "Snigdha Sur",
+    "website": "https://www.thejuggernaut.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Lendtable",
+    "founder_1_name": "Sheridan Clayborne",
+    "website": "http://lendtable.com",
+    "founder_email": [
+      "sheridan@lendtable.com"
+    ]
+  },
+  {
+    "company_name": "SafeButler",
+    "founder_1_name": "Vincent Wei",
+    "website": "https://www.safebutler.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Cosine",
+    "founder_1_name": "Alistair Pullen",
+    "website": "http://www.cosine.sh",
+    "founder_email": null
+  },
+  {
+    "company_name": "Hamming AI",
+    "founder_1_name": "Sumanyu Sharma",
+    "website": "https://hamming.ai/",
+    "founder_email": [
+      "sumanyu@hamming.ai",
+      "sumanyusharma@hamming.ai"
+    ]
+  },
+  {
+    "company_name": "Letterdrop",
+    "founder_1_name": "Parthi Loganathan",
+    "website": "https://letterdrop.com",
+    "founder_email": [
+      "parthi@letterdrop.com"
+    ]
+  },
+  {
+    "company_name": "Inflow",
+    "founder_1_name": "Levi Epstein",
+    "website": "https://getinflow.io/",
+    "founder_email": [
+      "levi@getinflow.io"
+    ]
+  },
+  {
+    "company_name": "Invert",
+    "founder_1_name": "Martin T. Permin",
+    "website": "http://www.invertbio.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "RMFG",
+    "founder_1_name": "Kenneth Cassel",
+    "website": "https://www.rmfg.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Splash Inc.",
+    "founder_1_name": "Ivan Avanesov",
+    "website": "https://splash9.com/",
+    "founder_email": [
+      "ivan@splash9.com"
+    ]
+  },
+  {
+    "company_name": "Epinoma",
+    "founder_1_name": "Varun Govil",
+    "website": "https://www.epinoma.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Mercoa",
+    "founder_1_name": "Sai Arora",
+    "website": "http://mercoa.com",
+    "founder_email": [
+      "sai.arora@mercoa.com",
+      "saiarora@mercoa.com",
+      "sai@mercoa.com"
+    ]
+  },
+  {
+    "company_name": "Slash",
+    "founder_1_name": "Victor Cardenas",
+    "website": "https://www.joinslash.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Bree",
+    "founder_1_name": "Alexander Li",
+    "website": "https://www.trybree.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Stack AI",
+    "founder_1_name": "Bernardo Aceituno",
+    "website": "https://www.stack-ai.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Feather",
+    "founder_1_name": "Aahan Sawhney",
+    "website": "https://featherhq.com",
+    "founder_email": [
+      "aahan.sawhney@featherhq.com",
+      "aahan@featherhq.com"
+    ]
+  },
+  {
+    "company_name": "Prequel",
+    "founder_1_name": "Charles Chretien",
+    "website": "https://prequel.co",
+    "founder_email": [
+      "charles@prequel.co"
+    ]
+  },
+  {
+    "company_name": "Sully.ai",
+    "founder_1_name": "Ahmed Omar",
+    "website": "https://www.sully.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Structured Labs",
+    "founder_1_name": "Amrutha Gujjar",
+    "website": "https://www.structuredlabs.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Routine",
+    "founder_1_name": "Julien Quintard",
+    "website": "http://routine.co",
+    "founder_email": [
+      "julien@routine.co",
+      "julien.quintard@routine.co"
+    ]
+  },
+  {
+    "company_name": "Skyvern",
+    "founder_1_name": "Suchintan Singh",
+    "website": "https://www.skyvern.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Santé",
+    "founder_1_name": "Darren Fike",
+    "website": "https://santehq.com/",
+    "founder_email": [
+      "darren@santehq.com"
+    ]
+  },
+  {
+    "company_name": "Yoneda Labs",
+    "founder_1_name": "Michał Mgeładze-Arciuch",
+    "website": "https://www.yonedalabs.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Nestor",
+    "founder_1_name": "Bogdan Apostol",
+    "website": "https://nestorup.com",
+    "founder_email": [
+      "bogdan@nestorup.com"
+    ]
+  },
+  {
+    "company_name": "Julius",
+    "founder_1_name": "Rahul Sonwalkar",
+    "website": "https://julius.ai",
+    "founder_email": [
+      "rahul.sonwalkar@julius.ai",
+      "rahulsonwalkar@julius.ai",
+      "rahul@julius.ai"
+    ]
+  },
+  {
+    "company_name": "Indemni",
+    "founder_1_name": "Omar Draz",
+    "website": "http://www.indemni.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "CozmoX AI",
+    "founder_1_name": "Alok Kumar",
+    "website": "https://www.cozmox.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Voker",
+    "founder_1_name": "Tyler Postle",
+    "website": "https://voker.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Lago",
+    "founder_1_name": "Anh-Tho CHUONG",
+    "website": "https://www.getlago.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "GoSats",
+    "founder_1_name": "Mohammed Roshan",
+    "website": "https://gosats.io",
+    "founder_email": null
+  },
+  {
+    "company_name": "Vendora",
+    "founder_1_name": "Sunny Singh",
+    "website": "https://www.vendora.io/",
+    "founder_email": null
+  },
+  {
+    "company_name": "AI Insurance",
+    "founder_1_name": "Cameron MacArthur",
+    "website": "https://www.aiinsurance.io",
+    "founder_email": null
+  },
+  {
+    "company_name": "Nomic Bio",
+    "founder_1_name": "Milad Dagher",
+    "website": "http://www.nomic.bio",
+    "founder_email": null
+  },
+  {
+    "company_name": "Continue",
+    "founder_1_name": "Ty Dunn",
+    "website": "https://continue.dev",
+    "founder_email": null
+  },
+  {
+    "company_name": "Revery AI",
+    "founder_1_name": "Kedan Li",
+    "website": "https://revery.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Paragon",
+    "founder_1_name": "Brandon Foo",
+    "website": "http://useparagon.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Merlin AI",
+    "founder_1_name": "Sneha Kumari",
+    "website": "https://www.merlinai.co",
+    "founder_email": null
+  },
+  {
+    "company_name": "Accend",
+    "founder_1_name": "Pranjal Daga",
+    "website": "https://www.withaccend.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Fleetzero",
+    "founder_1_name": "Steven Henderson",
+    "website": "https://www.fleetzero.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Enhanced Radar",
+    "founder_1_name": "Eric Button",
+    "website": "https://www.enhancedradar.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "FleetWorks",
+    "founder_1_name": "Paul Singer",
+    "website": "https://fleetworks.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Rutter",
+    "founder_1_name": "Eric Yu",
+    "website": "https://rutterapi.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Red Barn Robotics",
+    "founder_1_name": "Adam Iseman",
+    "website": "https://www.redbarnrobotics.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Wondercraft",
+    "founder_1_name": "Youssef Rizk",
+    "website": "https://wondercraft.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Bland AI",
+    "founder_1_name": "Isaiah Granet",
+    "website": "https://bland.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Paragon AI",
+    "founder_1_name": "Max Lu",
+    "website": "https://paragon.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "ModernLoop",
+    "founder_1_name": "Lydia Han",
+    "website": "http://modernloop.io",
+    "founder_email": null
+  },
+  {
+    "company_name": "Reprompt",
+    "founder_1_name": "Lukas Martinelli",
+    "website": "https://repromptai.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Enerjazz",
+    "founder_1_name": "Ravi Bharihoke",
+    "website": "https://www.enerjazz.tech/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Haven",
+    "founder_1_name": "Haven",
+    "website": "http://www.havenservicing.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "bloop",
+    "founder_1_name": "Louis Knight-Webb",
+    "website": "https://bloop.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "GrowthBook",
+    "founder_1_name": "Graham McNicoll",
+    "website": "https://www.growthbook.io",
+    "founder_email": null
+  },
+  {
+    "company_name": "Newton",
+    "founder_1_name": "Rohit Chaparala",
+    "website": "https://joinnewton.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Paratus Health",
+    "founder_1_name": "Pablo Bermudez-Canete",
+    "website": "https://paratushealth.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Caribou",
+    "founder_1_name": "Juan Andrade",
+    "website": "https://usecaribou.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Archon",
+    "founder_1_name": "George Parks",
+    "website": "https://archon.inc",
+    "founder_email": null
+  },
+  {
+    "company_name": "Osium AI",
+    "founder_1_name": "Sarah Najmark",
+    "website": "https://osium.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Bild AI",
+    "founder_1_name": "Roop Pal",
+    "website": "https://www.bild.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Delve",
+    "founder_1_name": "Karun Kaushik",
+    "website": "https://delve.co/?utm_source=yc&utm_medium=bio&utm_campaign=delve",
+    "founder_email": null
+  },
+  {
+    "company_name": "Output Biosciences",
+    "founder_1_name": "Mirella Mashiach",
+    "website": "https://www.outputbio.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "VenoStent",
+    "founder_1_name": "Tim Boire",
+    "website": "https://www.venostent.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Activeloop",
+    "founder_1_name": "Davit Buniatyan",
+    "website": "https://activeloop.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Kaagaz",
+    "founder_1_name": "Snehanshu Gandhi",
+    "website": "https://kaagaz.app",
+    "founder_email": null
+  },
+  {
+    "company_name": "Terminal",
+    "founder_1_name": "Raghav Midha",
+    "website": "https://www.withterminal.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "TaxGPT",
+    "founder_1_name": "Kashif Ali",
+    "website": "https://www.taxgpt.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Turion Space",
+    "founder_1_name": "Ryan Westerdahl",
+    "website": "https://turionspace.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "SchemeFlow",
+    "founder_1_name": "Andrew Browning",
+    "website": "https://www.schemeflow.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Broccoli AI",
+    "founder_1_name": "AJ Jain",
+    "website": "https://www.broccoli.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "throxy",
+    "founder_1_name": "Bergen Merey",
+    "website": "https://throxy.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Constant",
+    "founder_1_name": "Ben Sender",
+    "website": "https://useconstant.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "FamPay",
+    "founder_1_name": "Sambhav Jain",
+    "website": "https://fampay.in",
+    "founder_email": null
+  },
+  {
+    "company_name": "SafetyKit",
+    "founder_1_name": "David Graunke",
+    "website": "https://www.safetykit.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "violet",
+    "founder_1_name": "Gokul Prabhakaran",
+    "website": "http://www.byviolet.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "edgetrace",
+    "founder_1_name": "David Okao",
+    "website": "https://edgetrace.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Fathom",
+    "founder_1_name": "Richard White",
+    "website": "https://fathom.video",
+    "founder_email": null
+  },
+  {
+    "company_name": "Rulebricks",
+    "founder_1_name": "Siddharth Garimella",
+    "website": "https://rulebricks.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Duckie",
+    "founder_1_name": "Valerie Li",
+    "website": "https://duckie.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Arpari",
+    "founder_1_name": "Alexandra Zwiener",
+    "website": "https://www.arpari.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Coast",
+    "founder_1_name": "Spencer Levitt",
+    "website": "https://trycoast.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "PropelAuth",
+    "founder_1_name": "Andrew Israel",
+    "website": "https://www.propelauth.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Pasito",
+    "founder_1_name": "Pauline Roteta",
+    "website": "https://joinpasito.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Trayd",
+    "founder_1_name": "Anna Berger",
+    "website": "https://www.buildtrayd.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Exa",
+    "founder_1_name": "William Bryk",
+    "website": "https://exa.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Venu AI",
+    "founder_1_name": "Jeremy Lam",
+    "website": "https://www.venu3d.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Hype",
+    "founder_1_name": "Ravi Bakhai",
+    "website": "https://www.hype.meme/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Rabbet",
+    "founder_1_name": "Will Mitchell",
+    "website": "http://rabbet.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "CambioML",
+    "founder_1_name": "Rachel Hu",
+    "website": "https://www.cambioml.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Cinder",
+    "founder_1_name": "Glen Wise",
+    "website": "http://www.cinder.co",
+    "founder_email": null
+  },
+  {
+    "company_name": "Silimate",
+    "founder_1_name": "Ann Wu",
+    "website": "https://www.silimate.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Spark",
+    "founder_1_name": "Julia Wu",
+    "website": "https://www.sparkhq.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Metriport",
+    "founder_1_name": "Dima Goncharov",
+    "website": "https://metriport.com/",
+    "founder_email": [
+      "dima@metriport.com"
+    ]
+  },
+  {
+    "company_name": "Seal",
+    "founder_1_name": "Will Moss",
+    "website": "https://seal.run",
+    "founder_email": [
+      "willmoss@seal.run"
+    ]
+  },
+  {
+    "company_name": "GetCrux",
+    "founder_1_name": "Himank Jain",
+    "website": "http://getcrux.ai/",
+    "founder_email": [
+      "himank@getcrux.ai"
+    ]
+  },
+  {
+    "company_name": "Greenlite",
+    "founder_1_name": "Will Lawrence",
+    "website": "https://www.greenlite.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Reach Labs",
+    "founder_1_name": "Christopher Davlantes",
+    "website": "https://reachlabs.co/",
+    "founder_email": [
+      "christopher@reachlabs.co",
+      "christopher.davlantes@reachlabs.co",
+      "christopherdavlantes@reachlabs.co"
+    ]
+  },
+  {
+    "company_name": "Leaping AI",
+    "founder_1_name": "Kevin Wu",
+    "website": "https://www.leapingai.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Confident AI",
+    "founder_1_name": "Jeffrey Ip",
+    "website": "https://confident-ai.com",
+    "founder_email": [
+      "jeffrey@confident-ai.com",
+      "jeffreyip@confident-ai.com"
+    ]
+  },
+  {
+    "company_name": "Shimmer",
+    "founder_1_name": "Christal Wang",
+    "website": "https://shimmer.care",
+    "founder_email": [
+      "christal@shimmer.care"
+    ]
+  },
+  {
+    "company_name": "Distro",
+    "founder_1_name": "Jason Sullivan",
+    "website": "https://distro.app",
+    "founder_email": [
+      "jason.sullivan@distro.app",
+      "jasonsullivan@distro.app",
+      "jason@distro.app"
+    ]
+  },
+  {
+    "company_name": "OutRival, Inc.",
+    "founder_1_name": "Ruben A. Harris",
+    "website": "https://outrival.com/",
+    "founder_email": [
+      "ruben@outrival.com",
+      "ruben.harris@outrival.com"
+    ]
+  },
+  {
+    "company_name": "Heimdal",
+    "founder_1_name": "Marcus Lima",
+    "website": "https://www.heimdalccu.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Bonsai",
+    "founder_1_name": "Matt Nish",
+    "website": "https://www.hellobonsai.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Vance",
+    "founder_1_name": "Parth Garg",
+    "website": "https://vance.tech",
+    "founder_email": [
+      "parthgarg@vance.tech",
+      "parth.garg@vance.tech",
+      "parth@vance.tech"
+    ]
+  },
+  {
+    "company_name": "Sourcify",
+    "founder_1_name": "Nathan Resnick",
+    "website": "https://www.sourcify.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Flex",
+    "founder_1_name": "Sam O'Keefe",
+    "website": "https://www.withflex.com/shop",
+    "founder_email": null
+  },
+  {
+    "company_name": "Atlas",
+    "founder_1_name": "Yi Sung (Sung) Yong",
+    "website": "https://atlas.kitchen",
+    "founder_email": null
+  },
+  {
+    "company_name": "Biodock",
+    "founder_1_name": "Nurlybek Mursaliyev",
+    "website": "https://www.biodock.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "adyn",
+    "founder_1_name": "Elizabeth Ruzzo",
+    "website": "https://www.adynhealth.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Artos",
+    "founder_1_name": "Josh Kim",
+    "website": "https://www.artosai.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Gym Class - by IRL Studios",
+    "founder_1_name": "Matthew Harris",
+    "website": "https://gymclass.com",
+    "founder_email": [
+      "matthew@gymclass.com"
+    ]
+  },
+  {
+    "company_name": "Finta",
+    "founder_1_name": "Andy Wang",
+    "website": "https://www.finta.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Vena Vitals",
+    "founder_1_name": "Ray Liu",
+    "website": "http://venavitals.com",
+    "founder_email": [
+      "ray@venavitals.com"
+    ]
+  },
+  {
+    "company_name": "SoloSuit",
+    "founder_1_name": "George Simons",
+    "website": "https://www.solosuit.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Formance",
+    "founder_1_name": "Clément Salaün",
+    "website": "https://formance.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "autarc",
+    "founder_1_name": "Etienne-Noel Krause",
+    "website": "https://www.autarc.energy/en",
+    "founder_email": null
+  },
+  {
+    "company_name": "Verse",
+    "founder_1_name": "Bobby Pinckney",
+    "website": "https://madeonverse.com/",
+    "founder_email": [
+      "bobby.pinckney@madeonverse.com",
+      "bobbypinckney@madeonverse.com",
+      "bobby@madeonverse.com"
+    ]
+  },
+  {
+    "company_name": "Manara",
+    "founder_1_name": "Iliana Montauk",
+    "website": "http://www.manara.tech",
+    "founder_email": null
+  },
+  {
+    "company_name": "Safepay",
+    "founder_1_name": "Ziyad Parekh",
+    "website": "https://getsafepay.pk/",
+    "founder_email": null
+  },
+  {
+    "company_name": "AlgoUniversity",
+    "founder_1_name": "Manas Kumar Verma",
+    "website": "http://algouniversity.com/",
+    "founder_email": [
+      "manas@algouniversity.com"
+    ]
+  },
+  {
+    "company_name": "Asha Health",
+    "founder_1_name": "Akkshay Khoslaa",
+    "website": "https://asha.health",
+    "founder_email": [
+      "akkshay@asha.health"
+    ]
+  },
+  {
+    "company_name": "Aden",
+    "founder_1_name": "Vincent Jiang",
+    "website": "https://adenhq.com/",
+    "founder_email": [
+      "vincent@adenhq.com"
+    ]
+  },
+  {
+    "company_name": "Corgi",
+    "founder_1_name": "Nico Laqua",
+    "website": "https://corgi.insure",
+    "founder_email": [
+      "nico.laqua@corgi.insure",
+      "nico@corgi.insure"
+    ]
+  },
+  {
+    "company_name": "Meticulous",
+    "founder_1_name": "Gabriel Spencer-Harper",
+    "website": "https://www.meticulous.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Alguna",
+    "founder_1_name": "Aleks Đekić",
+    "website": "https://alguna.io",
+    "founder_email": [
+      "alekseki@alguna.io",
+      "aleks.eki@alguna.io",
+      "aleks@alguna.io"
+    ]
+  },
+  {
+    "company_name": "Fractional",
+    "founder_1_name": "Stella Han",
+    "website": "https://fractional.app",
+    "founder_email": [
+      "stellahan@fractional.app",
+      "stella@fractional.app",
+      "stella.han@fractional.app"
+    ]
+  },
+  {
+    "company_name": "ClickPe",
+    "founder_1_name": "Shashwat Shrikhande",
+    "website": "https://clickpe.ai/",
+    "founder_email": [
+      "shashwat@clickpe.ai"
+    ]
+  },
+  {
+    "company_name": "Phind",
+    "founder_1_name": "Michael Royzen",
+    "website": "https://phind.com",
+    "founder_email": [
+      "michael@phind.com"
+    ]
+  },
+  {
+    "company_name": "Mineflow",
+    "founder_1_name": "Ryan Goggins",
+    "website": "http://mineflow.ai/",
+    "founder_email": [
+      "ryan@mineflow.ai"
+    ]
+  },
+  {
+    "company_name": "Pax",
+    "founder_1_name": "Penny Chen",
+    "website": "https://paxai.com/",
+    "founder_email": [
+      "penny@paxai.com"
+    ]
+  },
+  {
+    "company_name": "Relari",
+    "founder_1_name": "Yi Zhang",
+    "website": "https://www.relari.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "ArchForm",
+    "founder_1_name": "Andrew Martz",
+    "website": "http://archform.com",
+    "founder_email": [
+      "andrew.martz@archform.com",
+      "andrewmartz@archform.com",
+      "andrew@archform.com"
+    ]
+  },
+  {
+    "company_name": "PAX Markets",
+    "founder_1_name": "Pete Stevenson",
+    "website": "https://pax.markets/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Intercept",
+    "founder_1_name": "Sasha Zhang",
+    "website": "https://tryintercept.com/",
+    "founder_email": [
+      "sasha@tryintercept.com"
+    ]
+  },
+  {
+    "company_name": "FIRST",
+    "founder_1_name": "Andrew Nakkache",
+    "website": "https://firstdelivery.com/",
+    "founder_email": [
+      "andrew@firstdelivery.com"
+    ]
+  },
+  {
+    "company_name": "PearAI",
+    "founder_1_name": "Nang Ang",
+    "website": "https://trypear.ai",
+    "founder_email": [
+      "nang@trypear.ai"
+    ]
+  },
+  {
+    "company_name": "Blaze",
+    "founder_1_name": "Faiyam Rahman",
+    "website": "https://blaze.money",
+    "founder_email": [
+      "faiyam@blaze.money"
+    ]
+  },
+  {
+    "company_name": "Dataland",
+    "founder_1_name": "Arthur Wu",
+    "website": "https://dataland.io",
+    "founder_email": [
+      "arthurwu@dataland.io",
+      "arthur.wu@dataland.io",
+      "arthur@dataland.io"
+    ]
+  },
+  {
+    "company_name": "Take App",
+    "founder_1_name": "Youmin Kim",
+    "website": "https://www.take.app",
+    "founder_email": null
+  },
+  {
+    "company_name": "Cargo",
+    "founder_1_name": "Aurelien Aubert",
+    "website": "https://getcargo.io",
+    "founder_email": [
+      "aurelien@getcargo.io"
+    ]
+  },
+  {
+    "company_name": "ProhostAI",
+    "founder_1_name": "Bill Ulammandakh",
+    "website": "https://www.prohost.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "DreamCraft Entertainment, Inc.",
+    "founder_1_name": "Veronica Yao",
+    "website": "https://www.dreamcraft.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Ellipsis",
+    "founder_1_name": "Hunter Brooks",
+    "website": "https://ellipsis.dev",
+    "founder_email": [
+      "hunter@ellipsis.dev"
+    ]
+  },
+  {
+    "company_name": "Storyboarder",
+    "founder_1_name": "Charles Forman",
+    "website": "https://storyboarder.com",
+    "founder_email": [
+      "charles@storyboarder.com"
+    ]
+  },
+  {
+    "company_name": "Spott",
+    "founder_1_name": "Manu Vanderveeren",
+    "website": "https://spott.io",
+    "founder_email": [
+      "manu@spott.io",
+      "manuvanderveeren@spott.io",
+      "manu.vanderveeren@spott.io"
+    ]
+  },
+  {
+    "company_name": "AfterQuery",
+    "founder_1_name": "Danny Tang",
+    "website": "https://afterquery.com",
+    "founder_email": [
+      "danny@afterquery.com"
+    ]
+  },
+  {
+    "company_name": "Roe AI",
+    "founder_1_name": "Richard Meng",
+    "website": "https://getroe.ai",
+    "founder_email": [
+      "richard@getroe.ai"
+    ]
+  },
+  {
+    "company_name": "Shuttle",
+    "founder_1_name": "Nodar Daneliya",
+    "website": "https://www.shuttle.rs",
+    "founder_email": null
+  },
+  {
+    "company_name": "Metal",
+    "founder_1_name": "Taylor Lowe",
+    "website": "https://metal.ai/",
+    "founder_email": [
+      "taylor.lowe@metal.ai",
+      "taylorlowe@metal.ai",
+      "taylor@metal.ai"
+    ]
+  },
+  {
+    "company_name": "Sola",
+    "founder_1_name": "Jessica Wu",
+    "website": "https://www.sola-solutions.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Cogram",
+    "founder_1_name": "Alexander von Boetticher",
+    "website": "https://cogram.com",
+    "founder_email": [
+      "alexander@cogram.com"
+    ]
+  },
+  {
+    "company_name": "Yummy Future",
+    "founder_1_name": "Jack Cui",
+    "website": "https://yummy-future.com",
+    "founder_email": [
+      "jackcui@yummy-future.com",
+      "jack.cui@yummy-future.com",
+      "jack@yummy-future.com"
+    ]
+  },
+  {
+    "company_name": "The Forecasting Company",
+    "founder_1_name": "Geoffrey Negiar",
+    "website": "https://www.theforecastingcompany.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Raindrop",
+    "founder_1_name": "Zubin Koticha",
+    "website": "https://www.raindrop.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Wifi Dabba, Inc.",
+    "founder_1_name": "Karam Lakshman",
+    "website": "https://dabba.com",
+    "founder_email": [
+      "karam@dabba.com"
+    ]
+  },
+  {
+    "company_name": "Synth",
+    "founder_1_name": "Josh Purtell",
+    "website": "https://www.usesynth.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Fizz",
+    "founder_1_name": "Carlo Kobe",
+    "website": "https://www.joinfizz.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "SimCare AI",
+    "founder_1_name": "Vrishank Saini",
+    "website": "https://simcare.ai",
+    "founder_email": [
+      "vrishank@simcare.ai"
+    ]
+  },
+  {
+    "company_name": "Tella",
+    "founder_1_name": "Grant Shaddick",
+    "website": "https://tella.tv/",
+    "founder_email": [
+      "grant@tella.tv"
+    ]
+  },
+  {
+    "company_name": "Jupiter",
+    "founder_1_name": "Chad Munroe",
+    "website": "https://www.jupiter.co",
+    "founder_email": null
+  },
+  {
+    "company_name": "Weekday",
+    "founder_1_name": "Amit Singh",
+    "website": "https://weekday.works/",
+    "founder_email": [
+      "amit@weekday.works"
+    ]
+  },
+  {
+    "company_name": "Maitai",
+    "founder_1_name": "Christian DalSanto",
+    "website": "https://trymaitai.ai",
+    "founder_email": [
+      "christian@trymaitai.ai"
+    ]
+  },
+  {
+    "company_name": "Ocular AI",
+    "founder_1_name": "Michael Moyo",
+    "website": "https://useocular.com",
+    "founder_email": [
+      "michael@useocular.com"
+    ]
+  },
+  {
+    "company_name": "Bucket Robotics",
+    "founder_1_name": "Matt Puchalski",
+    "website": "https://bucket.bot",
+    "founder_email": [
+      "matt@bucket.bot"
+    ]
+  },
+  {
+    "company_name": "Pulse",
+    "founder_1_name": "Sid Manchkanti",
+    "website": "https://www.runpulse.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Smartcuts",
+    "founder_1_name": "Brian Noguchi",
+    "website": "https://trysmartcuts.com/",
+    "founder_email": [
+      "brian@trysmartcuts.com"
+    ]
+  },
+  {
+    "company_name": "Alpha Vantage",
+    "founder_1_name": "Olivier Porte",
+    "website": "https://www.alphavantage.co/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Jamble",
+    "founder_1_name": "Louis de Jenlis",
+    "website": "https://www.jambleapp.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Clarion",
+    "founder_1_name": "Ryan Gallagher",
+    "website": "https://clarionhealth.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Frigade",
+    "founder_1_name": "Eric Brownrout",
+    "website": "https://frigade.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Ditto",
+    "founder_1_name": "Jo Ma",
+    "website": "http://dittowords.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Siglo",
+    "founder_1_name": "Joel Phillips",
+    "website": "https://siglo.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "G LNK",
+    "founder_1_name": "Rayan Ghandour",
+    "website": "https://glnkco.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Converge",
+    "founder_1_name": "Jan-Henrik Lambrechts",
+    "website": "http://www.runconverge.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Charge Robotics",
+    "founder_1_name": "Banks Hunter",
+    "website": "https://chargerobotics.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Letter AI",
+    "founder_1_name": "Ali Akhtar",
+    "website": "https://www.letter.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Cotera",
+    "founder_1_name": "Tom Firth",
+    "website": "https://cotera.co",
+    "founder_email": null
+  },
+  {
+    "company_name": "Crew",
+    "founder_1_name": "Amine Skalli",
+    "website": "https://crew.work/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Pincites",
+    "founder_1_name": "Sona Sulakian",
+    "website": "https://www.pincites.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Factored Quality",
+    "founder_1_name": "Prince Ghosh",
+    "website": "https://www.factoredquality.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Clearest Health",
+    "founder_1_name": "Nicolas Raga",
+    "website": "https://clearesthealth.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Misprint",
+    "founder_1_name": "Eva Herget",
+    "website": "https://www.misprint.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "JetPack Aviation",
+    "founder_1_name": "Boris Jarry",
+    "website": "http://www.jetpackaviation.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "HumanLayer",
+    "founder_1_name": "Dexter Horthy",
+    "website": "https://humanlayer.dev",
+    "founder_email": null
+  },
+  {
+    "company_name": "Velt",
+    "founder_1_name": "Rakesh Goyal",
+    "website": "https://velt.dev",
+    "founder_email": null
+  },
+  {
+    "company_name": "CollectWise",
+    "founder_1_name": "Sean OBrien",
+    "website": "https://collectwise.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Ozone",
+    "founder_1_name": "Max von Wolff",
+    "website": "https://ozone.pro",
+    "founder_email": null
+  },
+  {
+    "company_name": "dili",
+    "founder_1_name": "Anand Chaturvedi",
+    "website": "https://www.dili.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Apero Health",
+    "founder_1_name": "Jacinda Shelly",
+    "website": "https://www.aperohealth.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Nira Energy",
+    "founder_1_name": "Chris Ariante",
+    "website": "https://www.niraenergy.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Great Question",
+    "founder_1_name": "Ned Dwyer",
+    "website": "https://greatquestion.co",
+    "founder_email": null
+  },
+  {
+    "company_name": "Outset",
+    "founder_1_name": "Aaron Cannon",
+    "website": "https://outset.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "LunaJoy",
+    "founder_1_name": "Sipra Laddha",
+    "website": "http://HelloLunaJoy.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Aviator",
+    "founder_1_name": "Ankit Jain",
+    "website": "https://aviator.co",
+    "founder_email": null
+  },
+  {
+    "company_name": "Sweetspot",
+    "founder_1_name": "Sachin Subramanian",
+    "website": "https://www.sweetspot.so/",
+    "founder_email": null
+  },
+  {
+    "company_name": "WorkDone",
+    "founder_1_name": "Dmitry Karpov",
+    "website": "https://wrkdn.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Daybreak Health",
+    "founder_1_name": "Alex Alvarado",
+    "website": "https://www.daybreakhealth.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "SuperTokens",
+    "founder_1_name": "Advait Ruia",
+    "website": "https://supertokens.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Saturn",
+    "founder_1_name": "Amal Jolly",
+    "website": "https://www.SaturnOS.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Penciled",
+    "founder_1_name": "Shawn Shivdat",
+    "website": "https://penciled.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Darsel",
+    "founder_1_name": "Abdulhamid Haidar",
+    "website": "http://darsel.tech",
+    "founder_email": null
+  },
+  {
+    "company_name": "Luthor",
+    "founder_1_name": "Glenn Espinosa",
+    "website": "https://luthor.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Fintool",
+    "founder_1_name": "Nicolas Bustamante",
+    "website": "https://www.fintool.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Positional",
+    "founder_1_name": "Matthew Lenhard",
+    "website": "https://www.positional.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Swif.ai",
+    "founder_1_name": "Angelo (KC) Huang",
+    "website": "https://www.swif.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Proxis",
+    "founder_1_name": "Liam Collins",
+    "website": "https://www.proxis.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Novig",
+    "founder_1_name": "Jacob Fortinsky",
+    "website": "https://novig.us",
+    "founder_email": null
+  },
+  {
+    "company_name": "Data Driven Bioscience",
+    "founder_1_name": "Sandeep Dave",
+    "website": "http://datadrivenbioscience.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Agentive",
+    "founder_1_name": "Daniel Alberson",
+    "website": "https://www.goagentive.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "HOMLI",
+    "founder_1_name": "Antonis Mitropoulos",
+    "website": "https://thehomli.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Conduit",
+    "founder_1_name": "Cole Rubin",
+    "website": "https://www.conduit.app/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Zeit AI",
+    "founder_1_name": "Leopold von Waldthausen",
+    "website": "https://zeit-ai.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Mocha",
+    "founder_1_name": "Nicholas Charriere",
+    "website": "https://getmocha.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Layup",
+    "founder_1_name": "Ryan Xue",
+    "website": "http://www.layuplabs.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Wanderlog",
+    "founder_1_name": "Peter Xu",
+    "website": "https://wanderlog.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Etleap",
+    "founder_1_name": "Christian Romming",
+    "website": "https://etleap.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Unthread",
+    "founder_1_name": "Tom Bachant",
+    "website": "https://unthread.io",
+    "founder_email": null
+  },
+  {
+    "company_name": "Numeral",
+    "founder_1_name": "Kevin Liu",
+    "website": "https://numeralhq.com/",
+    "founder_email": [
+      "kevin@numeralhq.com"
+    ]
+  },
+  {
+    "company_name": "Conductor Quantum",
+    "founder_1_name": "Brandon Severin",
+    "website": "https://www.conductorquantum.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Rove",
+    "founder_1_name": "Max Morganroth",
+    "website": "http://rovecard.com",
+    "founder_email": [
+      "max.morganroth@rovecard.com",
+      "maxmorganroth@rovecard.com",
+      "max@rovecard.com"
+    ]
+  },
+  {
+    "company_name": "Bun",
+    "founder_1_name": "Jarred Sumner",
+    "website": "https://bun.sh",
+    "founder_email": [
+      "jarred@bun.sh"
+    ]
+  },
+  {
+    "company_name": "Hyperbrowser",
+    "founder_1_name": "Shri Sukhani",
+    "website": "https://hyperbrowser.ai",
+    "founder_email": [
+      "shrisukhani@hyperbrowser.ai",
+      "shri.sukhani@hyperbrowser.ai",
+      "shri@hyperbrowser.ai"
+    ]
+  },
+  {
+    "company_name": "Intelline",
+    "founder_1_name": "Kyle Faller",
+    "website": "https://www.intelline.ca/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Kombo",
+    "founder_1_name": "Alexander Kübel",
+    "website": "https://kombo.dev",
+    "founder_email": [
+      "alexander@kombo.dev"
+    ]
+  },
+  {
+    "company_name": "Provision",
+    "founder_1_name": "Luigi La Corte",
+    "website": "https://useprovision.com",
+    "founder_email": [
+      "luigicorte@useprovision.com",
+      "luigi.corte@useprovision.com",
+      "luigi@useprovision.com"
+    ]
+  },
+  {
+    "company_name": "Keeper",
+    "founder_1_name": "David Kang",
+    "website": "https://keepertax.com",
+    "founder_email": [
+      "davidkang@keepertax.com",
+      "david@keepertax.com",
+      "david.kang@keepertax.com"
+    ]
+  },
+  {
+    "company_name": "Twenty",
+    "founder_1_name": "Félix Malfait",
+    "website": "https://twenty.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "SigNoz",
+    "founder_1_name": "Pranay Prateek",
+    "website": "https://signoz.io",
+    "founder_email": [
+      "pranay@signoz.io"
+    ]
+  },
+  {
+    "company_name": "Theseus",
+    "founder_1_name": "Carl Schoeller",
+    "website": "https://theseus.us",
+    "founder_email": [
+      "carl@theseus.us"
+    ]
+  },
+  {
+    "company_name": "HippoBuild",
+    "founder_1_name": "Mads Schmidt Petersen",
+    "website": "https://hippo.build",
+    "founder_email": [
+      "madspetersen@hippo.build",
+      "mads.petersen@hippo.build",
+      "mads@hippo.build"
+    ]
+  },
+  {
+    "company_name": "Overview",
+    "founder_1_name": "Austin Appel",
+    "website": "https://overview.ai",
+    "founder_email": [
+      "austin@overview.ai"
+    ]
+  },
+  {
+    "company_name": "BotBuilt",
+    "founder_1_name": "Brent Wadas",
+    "website": "https://www.botbuilt.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Shasta Health",
+    "founder_1_name": "Srinjoy Majumdar",
+    "website": "https://www.shasta.health",
+    "founder_email": null
+  },
+  {
+    "company_name": "MobileBoost",
+    "founder_1_name": "Christian Schiller",
+    "website": "https://www.mobileboost.io/yc",
+    "founder_email": null
+  },
+  {
+    "company_name": "Segments.ai",
+    "founder_1_name": "Otto Debals",
+    "website": "https://segments.ai",
+    "founder_email": [
+      "otto@segments.ai"
+    ]
+  },
+  {
+    "company_name": "AccessOwl",
+    "founder_1_name": "Philip Eller",
+    "website": "https://www.accessowl.io/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Complete",
+    "founder_1_name": "Rani Mavram",
+    "website": "https://complete.so",
+    "founder_email": [
+      "ranimavram@complete.so",
+      "rani@complete.so",
+      "rani.mavram@complete.so"
+    ]
+  },
+  {
+    "company_name": "Mentra",
+    "founder_1_name": "Cayden Pierce",
+    "website": "https://mentra.glass",
+    "founder_email": [
+      "cayden@mentra.glass"
+    ]
+  },
+  {
+    "company_name": "HOKALI",
+    "founder_1_name": "Ignacio Viau",
+    "website": "https://www.hokali.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Markprompt",
+    "founder_1_name": "Marie Schneegans",
+    "website": "https://markprompt.com",
+    "founder_email": [
+      "marie@markprompt.com"
+    ]
+  },
+  {
+    "company_name": "Delfino AI",
+    "founder_1_name": "Sneh Patel",
+    "website": "https://www.delfino.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Weave Robotics",
+    "founder_1_name": "Evan Wineland",
+    "website": "https://www.weaverobots.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Artie",
+    "founder_1_name": "Jacqueline Cheong",
+    "website": "https://www.artie.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Capix",
+    "founder_1_name": "Bruno Jacob",
+    "website": "http://capix.ai/",
+    "founder_email": [
+      "bruno@capix.ai"
+    ]
+  },
+  {
+    "company_name": "Strada",
+    "founder_1_name": "Amir Prodensky",
+    "website": "https://www.getstrada.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Mentum",
+    "founder_1_name": "Gus Trigos",
+    "website": "http://getmentum.com",
+    "founder_email": [
+      "gustrigos@getmentum.com",
+      "gus.trigos@getmentum.com",
+      "gus@getmentum.com"
+    ]
+  },
+  {
+    "company_name": "Affogato AI",
+    "founder_1_name": "Bhagaban Behera",
+    "website": "https://affogato.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Cofactr",
+    "founder_1_name": "Matthew Haber",
+    "website": "https://www.cofactr.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Infer",
+    "founder_1_name": "Urvin Soneta",
+    "website": "https://www.infer.so/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Medplum",
+    "founder_1_name": "Reshma Khilnani",
+    "website": "https://www.medplum.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "AlemHealth",
+    "founder_1_name": "Aschkan Abdul Malek",
+    "website": "https://www.alemhealth.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Orchid",
+    "founder_1_name": "Joseph Pomianowski",
+    "website": "https://orchid.health",
+    "founder_email": [
+      "josephpomianowski@orchid.health",
+      "joseph@orchid.health",
+      "joseph.pomianowski@orchid.health"
+    ]
+  },
+  {
+    "company_name": "Tailor",
+    "founder_1_name": "Yo Shibata",
+    "website": "https://www.tailor.tech/",
+    "founder_email": null
+  },
+  {
+    "company_name": "VideoGen",
+    "founder_1_name": "Anton Koenig",
+    "website": "https://videogen.io",
+    "founder_email": [
+      "anton@videogen.io"
+    ]
+  },
+  {
+    "company_name": "Nitrode",
+    "founder_1_name": "Ben Kim",
+    "website": "http://nitrode.com",
+    "founder_email": [
+      "ben@nitrode.com"
+    ]
+  },
+  {
+    "company_name": "Diffuse Bio",
+    "founder_1_name": "Namrata Anand",
+    "website": "http://diffuse.bio",
+    "founder_email": [
+      "namrataanand@diffuse.bio",
+      "namrata.anand@diffuse.bio",
+      "namrata@diffuse.bio"
+    ]
+  },
+  {
+    "company_name": "Truva",
+    "founder_1_name": "Gaurav Aggarwal",
+    "website": "https://www.truva.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Warmly,",
+    "founder_1_name": "Max Greenwald",
+    "website": "http://warmly.ai/",
+    "founder_email": [
+      "max@warmly.ai",
+      "maxgreenwald@warmly.ai"
+    ]
+  },
+  {
+    "company_name": "Usul",
+    "founder_1_name": "Jarren Reid",
+    "website": "https://www.usul.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Quill",
+    "founder_1_name": "Shawn Magee",
+    "website": "https://quill.co",
+    "founder_email": [
+      "shawn.magee@quill.co",
+      "shawnmagee@quill.co",
+      "shawn@quill.co"
+    ]
+  },
+  {
+    "company_name": "Afternoon.co",
+    "founder_1_name": "Roman Zubenko",
+    "website": "https://afternoon.co",
+    "founder_email": [
+      "roman@afternoon.co"
+    ]
+  },
+  {
+    "company_name": "Weel",
+    "founder_1_name": "Raphael Krief",
+    "website": "https://weel.live/",
+    "founder_email": [
+      "raphael@weel.live"
+    ]
+  },
+  {
+    "company_name": "Arini",
+    "founder_1_name": "Abdul Jamjoom",
+    "website": "https://www.arini.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Loula",
+    "founder_1_name": "Lindsey Redd",
+    "website": "https://joinloula.com",
+    "founder_email": [
+      "lindseyredd@joinloula.com",
+      "lindsey.redd@joinloula.com",
+      "lindsey@joinloula.com"
+    ]
+  },
+  {
+    "company_name": "Courtyard.io",
+    "founder_1_name": "Nicolas le Jeune",
+    "website": "https://courtyard.io",
+    "founder_email": [
+      "nicolasjeune@courtyard.io",
+      "nicolas.jeune@courtyard.io",
+      "nicolas@courtyard.io"
+    ]
+  },
+  {
+    "company_name": "Parahelp",
+    "founder_1_name": "Anker Ryhl",
+    "website": "https://parahelp.com/",
+    "founder_email": [
+      "anker@parahelp.com"
+    ]
+  },
+  {
+    "company_name": "FurtherAI",
+    "founder_1_name": "Aman Gour",
+    "website": "https://www.furtherai.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "OfOne",
+    "founder_1_name": "Will Edwards",
+    "website": "https://www.of.one",
+    "founder_email": null
+  },
+  {
+    "company_name": "Skypher",
+    "founder_1_name": "Louis Mutricy",
+    "website": "https://skypher.co",
+    "founder_email": [
+      "louis@skypher.co",
+      "louismutricy@skypher.co",
+      "louis.mutricy@skypher.co"
+    ]
+  },
+  {
+    "company_name": "amiloz",
+    "founder_1_name": "Debashish Bhadra",
+    "website": "https://www.beloz.com.mx/",
+    "founder_email": null
+  },
+  {
+    "company_name": "ego",
+    "founder_1_name": "Vishnu Hari",
+    "website": "https://ego.live",
+    "founder_email": [
+      "vishnuhari@ego.live",
+      "vishnu.hari@ego.live",
+      "vishnu@ego.live"
+    ]
+  },
+  {
+    "company_name": "Scispot",
+    "founder_1_name": "Guru Singh",
+    "website": "https://scispot.io",
+    "founder_email": [
+      "guru@scispot.io",
+      "guru.singh@scispot.io"
+    ]
+  },
+  {
+    "company_name": "Sweep",
+    "founder_1_name": "William Zeng",
+    "website": "https://sweep.dev/",
+    "founder_email": [
+      "william@sweep.dev"
+    ]
+  },
+  {
+    "company_name": "Synch",
+    "founder_1_name": "Daniel Ruiz",
+    "website": "https://www.withsynch.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Quickchat AI",
+    "founder_1_name": "Piotr Grudzien",
+    "website": "https://quickchat.ai/",
+    "founder_email": [
+      "piotrgrudzien@quickchat.ai",
+      "piotr.grudzien@quickchat.ai",
+      "piotr@quickchat.ai"
+    ]
+  },
+  {
+    "company_name": "RentHop",
+    "founder_1_name": "Lee C. Lin",
+    "website": "http://renthop.com",
+    "founder_email": [
+      "leelin@renthop.com",
+      "lee.lin@renthop.com",
+      "lee@renthop.com"
+    ]
+  },
+  {
+    "company_name": "Kastle",
+    "founder_1_name": "Rishi Choudhary",
+    "website": "https://kastle.ai/",
+    "founder_email": [
+      "rishi@kastle.ai"
+    ]
+  },
+  {
+    "company_name": "Foundry",
+    "founder_1_name": "Manil Lakabi",
+    "website": "https://www.foundryrl.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Quadrant Health",
+    "founder_1_name": "Anin Sayana",
+    "website": "https://quadrant.health",
+    "founder_email": [
+      "anin@quadrant.health"
+    ]
+  },
+  {
+    "company_name": "Pillar",
+    "founder_1_name": "Faisal Younus",
+    "website": "https://www.pillar.io",
+    "founder_email": null
+  },
+  {
+    "company_name": "Coval",
+    "founder_1_name": "Brooke Hopkins",
+    "website": "https://coval.dev",
+    "founder_email": [
+      "brooke@coval.dev"
+    ]
+  },
+  {
+    "company_name": "BetterBasket",
+    "founder_1_name": "Leon Zhang",
+    "website": "http://betterbasket.ai",
+    "founder_email": [
+      "leon@betterbasket.ai"
+    ]
+  },
+  {
+    "company_name": "Copilot",
+    "founder_1_name": "Marlon Misra",
+    "website": "https://www.copilot.app",
+    "founder_email": null
+  },
+  {
+    "company_name": "TeamOut",
+    "founder_1_name": "Thomas Mazimann",
+    "website": "https://www.teamout.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Crustdata",
+    "founder_1_name": "Abhilash Chowdhary",
+    "website": "https://crustdata.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Handoff",
+    "founder_1_name": "Dmitry Alexin",
+    "website": "https://www.handoff.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Domu Technology Inc.",
+    "founder_1_name": "Nick Diaz",
+    "website": "https://www.domu.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Rally UXR",
+    "founder_1_name": "Oren Friedman",
+    "website": "https://www.rallyuxr.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Stamp",
+    "founder_1_name": "Archit Mehta",
+    "website": "https://www.stampmail.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Venta AI",
+    "founder_1_name": "Lucas Spreiter",
+    "website": "https://www.getventa.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Haven",
+    "founder_1_name": "Juan Burgos",
+    "website": "https://www.usehaven.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Hypotenuse AI",
+    "founder_1_name": "Joshua Wong",
+    "website": "https://hypotenuse.ai/",
+    "founder_email": [
+      "joshua@hypotenuse.ai"
+    ]
+  },
+  {
+    "company_name": "Turing Labs Inc.",
+    "founder_1_name": "Manmit Shrimali",
+    "website": "http://www.turingsaas.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Rosebud AI",
+    "founder_1_name": "Lisha Li",
+    "website": "http://rosebud.ai",
+    "founder_email": [
+      "lisha@rosebud.ai",
+      "lishali@rosebud.ai",
+      "lisha.li@rosebud.ai"
+    ]
+  },
+  {
+    "company_name": "Mercura",
+    "founder_1_name": "Lukas Bock",
+    "website": "https://www.mercura.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Reducto",
+    "founder_1_name": "Adit Abraham",
+    "website": "https://reducto.ai",
+    "founder_email": [
+      "adit@reducto.ai",
+      "adit.abraham@reducto.ai"
+    ]
+  },
+  {
+    "company_name": "Saphira AI",
+    "founder_1_name": "Akshay Chalana",
+    "website": "https://saphira.ai",
+    "founder_email": [
+      "akshay@saphira.ai"
+    ]
+  },
+  {
+    "company_name": "Anima",
+    "founder_1_name": "Shun Pang",
+    "website": "http://www.animahealth.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Roforco",
+    "founder_1_name": "Brain Xiang",
+    "website": "https://",
+    "founder_email": null
+  },
+  {
+    "company_name": "Waydev",
+    "founder_1_name": "Alex Circei",
+    "website": "https://waydev.co",
+    "founder_email": [
+      "alex@waydev.co"
+    ]
+  },
+  {
+    "company_name": "Tally",
+    "founder_1_name": "Rami Ghanem",
+    "website": "https://tallyhq.com",
+    "founder_email": [
+      "rami@tallyhq.com"
+    ]
+  },
+  {
+    "company_name": "Mach9",
+    "founder_1_name": "Alexander Baikovitz",
+    "website": "https://www.mach9.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Yarn",
+    "founder_1_name": "Jasper Story",
+    "website": "https://www.yarn.so",
+    "founder_email": null
+  },
+  {
+    "company_name": "Modern Realty",
+    "founder_1_name": "Raffi Isanians",
+    "website": "https://modernrealty.io",
+    "founder_email": [
+      "raffi@modernrealty.io"
+    ]
+  },
+  {
+    "company_name": "CommodityAI",
+    "founder_1_name": "Philip Koenig",
+    "website": "https://commodityai.io/",
+    "founder_email": [
+      "philipkoenig@commodityai.io",
+      "philip.koenig@commodityai.io",
+      "philip@commodityai.io"
+    ]
+  },
+  {
+    "company_name": "Metalware",
+    "founder_1_name": "Ryan Chow",
+    "website": "https://www.metalware.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "ControlHub",
+    "founder_1_name": "Rodrigo Santibanez",
+    "website": "https://controlhub.com/",
+    "founder_email": [
+      "rodrigo.santibanez@controlhub.com",
+      "rodrigosantibanez@controlhub.com",
+      "rodrigo@controlhub.com"
+    ]
+  },
+  {
+    "company_name": "aSim",
+    "founder_1_name": "Daniel Li",
+    "website": "https://asim.sh/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Lightdash",
+    "founder_1_name": "Hamzah Chaudhary",
+    "website": "http://lightdash.com/",
+    "founder_email": [
+      "hamzah@lightdash.com"
+    ]
+  },
+  {
+    "company_name": "kapa.ai",
+    "founder_1_name": "Emil Soerensen",
+    "website": "https://www.kapa.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "UNISON",
+    "founder_1_name": "Maxime C Peroumal",
+    "website": "https://www.in-unison.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Invopop",
+    "founder_1_name": "Juan Moliner Malaxechevarría",
+    "website": "https://www.invopop.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Haystack",
+    "founder_1_name": "Julian Colina",
+    "website": "https://usehaystack.io/",
+    "founder_email": [
+      "julian@usehaystack.io"
+    ]
+  },
+  {
+    "company_name": "Spline",
+    "founder_1_name": "Alejandro Leon",
+    "website": "http://spline.design/",
+    "founder_email": [
+      "alejandro@spline.design"
+    ]
+  },
+  {
+    "company_name": "Odo",
+    "founder_1_name": "Yooni Ahn",
+    "website": "https://www.odo.do/",
+    "founder_email": null
+  },
+  {
+    "company_name": "General Proximity",
+    "founder_1_name": "Armand Cognetta",
+    "website": "https://www.generalproximity.bio/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Variance",
+    "founder_1_name": "Karine Mellata",
+    "website": "https://www.variance.co/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Quivr",
+    "founder_1_name": "Stan Girard",
+    "website": "https://www.quivr.app/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Haplotype Labs",
+    "founder_1_name": "Mike Polcari",
+    "website": "https://www.haplotypelabs.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Wyndly",
+    "founder_1_name": "Aakash Shah",
+    "website": "https://www.wyndly.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Centauri AI",
+    "founder_1_name": "He Lu",
+    "website": "https://centauri-ai.tech",
+    "founder_email": [
+      "he.lu@centauri-ai.tech"
+    ]
+  },
+  {
+    "company_name": "Retell AI",
+    "founder_1_name": "Bing Wu",
+    "website": "https://retellai.com",
+    "founder_email": [
+      "bing@retellai.com"
+    ]
+  },
+  {
+    "company_name": "Legion Health",
+    "founder_1_name": "Yash Patel",
+    "website": "https://legionhealth.com",
+    "founder_email": [
+      "yash@legionhealth.com"
+    ]
+  },
+  {
+    "company_name": "testRigor",
+    "founder_1_name": "Artem Golubev",
+    "website": "https://testrigor.com",
+    "founder_email": [
+      "artem@testrigor.com",
+      "artem.golubev@testrigor.com"
+    ]
+  },
+  {
+    "company_name": "Cambio",
+    "founder_1_name": "Leia de Guzman",
+    "website": "https://www.cambio.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Opencall.ai",
+    "founder_1_name": "Oliver Silverstein",
+    "website": "https://opencall.ai",
+    "founder_email": [
+      "oliver.silverstein@opencall.ai",
+      "oliversilverstein@opencall.ai",
+      "oliver@opencall.ai"
+    ]
+  },
+  {
+    "company_name": "Akiflow",
+    "founder_1_name": "Nunzio Martinello",
+    "website": "https://akiflow.com",
+    "founder_email": [
+      "nunzio@akiflow.com"
+    ]
+  },
+  {
+    "company_name": "Decipher AI",
+    "founder_1_name": "Michael Rosenfield",
+    "website": "https://getdecipher.com",
+    "founder_email": [
+      "michael@getdecipher.com"
+    ]
+  },
+  {
+    "company_name": "Simbie AI",
+    "founder_1_name": "Natalia Khosla, MD",
+    "website": "http://www.simbie.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Giga ML",
+    "founder_1_name": "Varun Vummadi",
+    "website": "https://gigaml.com/",
+    "founder_email": [
+      "varun.vummadi@gigaml.com",
+      "varunvummadi@gigaml.com",
+      "varun@gigaml.com"
+    ]
+  },
+  {
+    "company_name": "Yuma AI",
+    "founder_1_name": "Guillaume Luccisano",
+    "website": "https://yuma.ai",
+    "founder_email": [
+      "guillaume@yuma.ai"
+    ]
+  },
+  {
+    "company_name": "Untether Labs",
+    "founder_1_name": "Aditya Sharma",
+    "website": "https://untetherlabs.com",
+    "founder_email": [
+      "aditya.sharma@untetherlabs.com",
+      "adityasharma@untetherlabs.com",
+      "aditya@untetherlabs.com"
+    ]
+  },
+  {
+    "company_name": "Pesto",
+    "founder_1_name": "James Savoldelli",
+    "website": "https://www.getpesto.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Meru",
+    "founder_1_name": "Rohan Arora",
+    "website": "https://usemeru.com",
+    "founder_email": [
+      "rohanarora@usemeru.com",
+      "rohan.arora@usemeru.com",
+      "rohan@usemeru.com"
+    ]
+  },
+  {
+    "company_name": "Health Harbor",
+    "founder_1_name": "Alan Liu",
+    "website": "https://healthharbor.co/",
+    "founder_email": [
+      "alan@healthharbor.co"
+    ]
+  },
+  {
+    "company_name": "InspectMind AI",
+    "founder_1_name": "Aakash Prasad",
+    "website": "https://www.inspectmind.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Carbonfact",
+    "founder_1_name": "Marc Laurent",
+    "website": "http://www.carbonfact.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Blacksmith",
+    "founder_1_name": "Aditya (JP) Jayaprakash",
+    "website": "https://blacksmith.sh/",
+    "founder_email": [
+      "aditya.jayaprakash@blacksmith.sh",
+      "aditya@blacksmith.sh"
+    ]
+  },
+  {
+    "company_name": "Roame",
+    "founder_1_name": "Tim Qin",
+    "website": "https://roame.travel/",
+    "founder_email": [
+      "tim@roame.travel"
+    ]
+  },
+  {
+    "company_name": "Heroic Labs",
+    "founder_1_name": "Mo Firouz",
+    "website": "http://heroiclabs.com",
+    "founder_email": [
+      "mofirouz@heroiclabs.com",
+      "mo@heroiclabs.com",
+      "mo.firouz@heroiclabs.com"
+    ]
+  },
+  {
+    "company_name": "Vogent",
+    "founder_1_name": "Jagath Vytheeswaran",
+    "website": "https://vogent.ai",
+    "founder_email": [
+      "jagath@vogent.ai"
+    ]
+  },
+  {
+    "company_name": "Jiga",
+    "founder_1_name": "Adar Hay",
+    "website": "https://jiga.io",
+    "founder_email": [
+      "adar@jiga.io",
+      "adar.hay@jiga.io"
+    ]
+  },
+  {
+    "company_name": "Spur",
+    "founder_1_name": "Sneha Sivakumar",
+    "website": "https://www.spurtest.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Fam",
+    "founder_1_name": "Mike McIntyre",
+    "website": "https://www.famapp.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Scout",
+    "founder_1_name": "Noah Fichter",
+    "website": "https://scoutforschools.com/",
+    "founder_email": [
+      "noahfichter@scoutforschools.com",
+      "noah.fichter@scoutforschools.com",
+      "noah@scoutforschools.com"
+    ]
+  },
+  {
+    "company_name": "Zenysis",
+    "founder_1_name": "Jonathan Stambolis",
+    "website": "http://www.zenysis.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Solve Intelligence",
+    "founder_1_name": "Chris Parsonson",
+    "website": "https://www.solveintelligence.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Explorex",
+    "founder_1_name": "Mainak Sarkar",
+    "website": "https://explorex.co",
+    "founder_email": [
+      "mainaksarkar@explorex.co",
+      "mainak.sarkar@explorex.co",
+      "mainak@explorex.co"
+    ]
+  },
+  {
+    "company_name": "Readily",
+    "founder_1_name": "Edward Tiong",
+    "website": "https://readily.co",
+    "founder_email": [
+      "edward.tiong@readily.co",
+      "edwardtiong@readily.co",
+      "edward@readily.co"
+    ]
+  },
+  {
+    "company_name": "omnidock",
+    "founder_1_name": "Shayan Zakerzadeh",
+    "website": "https://www.omnidock.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Hyperbound",
+    "founder_1_name": "Sriharsha Guduguntla",
+    "website": "https://hyperbound.ai",
+    "founder_email": [
+      "sriharsha@hyperbound.ai"
+    ]
+  },
+  {
+    "company_name": "Optery",
+    "founder_1_name": "Lawrence Gentilello",
+    "website": "https://www.optery.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Reviving Mind",
+    "founder_1_name": "Rahul Sharma",
+    "website": "https://www.revivingmind.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Kular",
+    "founder_1_name": "Nelson Jones",
+    "website": "https://www.kular.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "FlexDesk",
+    "founder_1_name": "Clark Jacobs",
+    "website": "https://www.flexdesk.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "CodeCrafters",
+    "founder_1_name": "Sarup Banskota",
+    "website": "https://codecrafters.io",
+    "founder_email": [
+      "sarup@codecrafters.io"
+    ]
+  },
+  {
+    "company_name": "SuperKalam",
+    "founder_1_name": "Vimal Singh Rathore",
+    "website": "https://superkalam.com",
+    "founder_email": [
+      "vimal@superkalam.com"
+    ]
+  },
+  {
+    "company_name": "Weave",
+    "founder_1_name": "Adam Cohen",
+    "website": "https://workweave.dev",
+    "founder_email": [
+      "adam@workweave.dev"
+    ]
+  },
+  {
+    "company_name": "Kraftful",
+    "founder_1_name": "Yana Welinder",
+    "website": "http://www.kraftful.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Emerge Career",
+    "founder_1_name": "Uzoma \"Zo\" Orchingwa",
+    "website": "https://www.emergecareer.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Same",
+    "founder_1_name": "Aiden Bai",
+    "website": "https://same.new",
+    "founder_email": null
+  },
+  {
+    "company_name": "Gordian Software",
+    "founder_1_name": "Stephen Grabowski",
+    "website": "https://www.gordiansoftware.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Lightly",
+    "founder_1_name": "Igor Susmelj",
+    "website": "https://lightly.ai/",
+    "founder_email": [
+      "igorsusmelj@lightly.ai",
+      "igor.susmelj@lightly.ai",
+      "igor@lightly.ai"
+    ]
+  },
+  {
+    "company_name": "Centaur Labs",
+    "founder_1_name": "Tom Gellatly",
+    "website": "https://centaurlabs.com/",
+    "founder_email": [
+      "tom@centaurlabs.com"
+    ]
+  },
+  {
+    "company_name": "Thunder Compute",
+    "founder_1_name": "Carl Peterson",
+    "website": "https://www.thundercompute.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Model ML",
+    "founder_1_name": "Arnie Englander",
+    "website": "https://www.modelml.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Chunkr",
+    "founder_1_name": "Mehul Chadda",
+    "website": "https://chunkr.ai/",
+    "founder_email": [
+      "mehul@chunkr.ai"
+    ]
+  },
+  {
+    "company_name": "Agentnoon",
+    "founder_1_name": "Ali Nawab",
+    "website": "https://agentnoon.com",
+    "founder_email": [
+      "ali@agentnoon.com",
+      "ali.nawab@agentnoon.com"
+    ]
+  },
+  {
+    "company_name": "Simple AI",
+    "founder_1_name": "Catheryn Li",
+    "website": "https://www.usesimple.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Per Diem",
+    "founder_1_name": "Tomer Molovinsky",
+    "website": "https://tryperdiem.com",
+    "founder_email": [
+      "tomermolovinsky@tryperdiem.com",
+      "tomer@tryperdiem.com",
+      "tomer.molovinsky@tryperdiem.com"
+    ]
+  },
+  {
+    "company_name": "IMT Care",
+    "founder_1_name": "Rachit Puri",
+    "website": "https://www.imt.care",
+    "founder_email": null
+  },
+  {
+    "company_name": "Blacktop Hoops by Vinci Games",
+    "founder_1_name": "Nathaniel Ventura",
+    "website": "https://blacktophoopsvr.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Ascen",
+    "founder_1_name": "Francis Larson",
+    "website": "https://ascen.com",
+    "founder_email": [
+      "francis.larson@ascen.com",
+      "francislarson@ascen.com",
+      "francis@ascen.com"
+    ]
+  },
+  {
+    "company_name": "MailTime",
+    "founder_1_name": "Heatherm Huang",
+    "website": "http://mailtime.com",
+    "founder_email": [
+      "heatherm@mailtime.com"
+    ]
+  },
+  {
+    "company_name": "Lemon Slice",
+    "founder_1_name": "Lina Colucci",
+    "website": "https://www.lemonslice.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Strike",
+    "founder_1_name": "Ronit Jain",
+    "website": "http://strikebet.app",
+    "founder_email": [
+      "ronit@strikebet.app"
+    ]
+  },
+  {
+    "company_name": "MDalgorithms Inc.",
+    "founder_1_name": "Yoram Harth MD",
+    "website": "https://www.mdalgorithms.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "TransAstra Corporation",
+    "founder_1_name": "Joel Sercel",
+    "website": "https://www.transastra.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Unsloth AI",
+    "founder_1_name": "Daniel Han",
+    "website": "https://unsloth.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Tivara",
+    "founder_1_name": "Tej Seelamsetty",
+    "website": "https://tivara.com",
+    "founder_email": [
+      "tej@tivara.com"
+    ]
+  },
+  {
+    "company_name": "Taskade",
+    "founder_1_name": "Stan Chang",
+    "website": "https://www.taskade.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Milo",
+    "founder_1_name": "Avni Patel Thompson",
+    "website": "http://www.joinmilo.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Authologic",
+    "founder_1_name": "Jarek Sygitowicz",
+    "website": "https://authologic.com",
+    "founder_email": [
+      "jarek.sygitowicz@authologic.com",
+      "jarek@authologic.com"
+    ]
+  },
+  {
+    "company_name": "Sonauto",
+    "founder_1_name": "Ryan Tremblay",
+    "website": "https://sonauto.ai/",
+    "founder_email": [
+      "ryantremblay@sonauto.ai",
+      "ryan@sonauto.ai",
+      "ryan.tremblay@sonauto.ai"
+    ]
+  },
+  {
+    "company_name": "FuseAI",
+    "founder_1_name": "Saurav Bubber",
+    "website": "https://tryfuse.ai/",
+    "founder_email": [
+      "saurav@tryfuse.ai"
+    ]
+  },
+  {
+    "company_name": "Avoca",
+    "founder_1_name": "Apurva Shrivastava",
+    "website": "https://www.avoca.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Tempo",
+    "founder_1_name": "Kevin Michael",
+    "website": "https://www.tempo.new",
+    "founder_email": null
+  },
+  {
+    "company_name": "Fractal Labs",
+    "founder_1_name": "Alan Du",
+    "website": "https://fractal-labs.gg/",
+    "founder_email": [
+      "alan@fractal-labs.gg"
+    ]
+  },
+  {
+    "company_name": "hotglue",
+    "founder_1_name": "Hassan Syyid",
+    "website": "https://hotglue.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Datafold",
+    "founder_1_name": "Gleb Mezhanskiy",
+    "website": "https://datafold.com",
+    "founder_email": [
+      "gleb@datafold.com"
+    ]
+  },
+  {
+    "company_name": "Skyways",
+    "founder_1_name": "Charles Acknin",
+    "website": "http://skyways.com",
+    "founder_email": [
+      "charles.acknin@skyways.com",
+      "charlesacknin@skyways.com",
+      "charles@skyways.com"
+    ]
+  },
+  {
+    "company_name": "Humanloop",
+    "founder_1_name": "Raza Habib",
+    "website": "https://humanloop.com",
+    "founder_email": [
+      "raza@humanloop.com"
+    ]
+  },
+  {
+    "company_name": "Porter",
+    "founder_1_name": "Justin Rhee",
+    "website": "https://porter.run",
+    "founder_email": [
+      "justinrhee@porter.run",
+      "justin.rhee@porter.run",
+      "justin@porter.run"
+    ]
+  },
+  {
+    "company_name": "Hestus, Inc.",
+    "founder_1_name": "Sohrab Haghighat",
+    "website": "https://www.hestus.co",
+    "founder_email": null
+  },
+  {
+    "company_name": "Rev Genomics",
+    "founder_1_name": "Bertrand Vick",
+    "website": "https://www.revgenomics.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "truemetrics",
+    "founder_1_name": "Ingo Boegemann",
+    "website": "https://www.truemetrics.io/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Emobi",
+    "founder_1_name": "Lin Sun Fa",
+    "website": "https://www.emobi.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Anja Health",
+    "founder_1_name": "Kathryn Cross",
+    "website": "https://anjahealth.com",
+    "founder_email": [
+      "kathryn@anjahealth.com"
+    ]
+  },
+  {
+    "company_name": "Atomic",
+    "founder_1_name": "David Dindi",
+    "website": "https://www.atomicvest.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "SPATE",
+    "founder_1_name": "Yarden Horwitz",
+    "website": "https://www.spate.nyc",
+    "founder_email": null
+  },
+  {
+    "company_name": "Doctor Droid",
+    "founder_1_name": "Siddarth Jain",
+    "website": "https://drdroid.io/",
+    "founder_email": [
+      "siddarth@drdroid.io"
+    ]
+  },
+  {
+    "company_name": "Escape",
+    "founder_1_name": "Tristan Kalos",
+    "website": "https://escape.tech",
+    "founder_email": [
+      "tristankalos@escape.tech",
+      "tristan.kalos@escape.tech",
+      "tristan@escape.tech"
+    ]
+  },
+  {
+    "company_name": "Women Who Code",
+    "founder_1_name": "Women Who Code",
+    "website": "https://www.womenwhocode.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Olive",
+    "founder_1_name": "Bardia Safari",
+    "website": "https://fromolive.com",
+    "founder_email": [
+      "bardia@fromolive.com"
+    ]
+  },
+  {
+    "company_name": "Parity",
+    "founder_1_name": "Wilson Spearman",
+    "website": "https://tryparity.com",
+    "founder_email": [
+      "wilson@tryparity.com"
+    ]
+  },
+  {
+    "company_name": "Centralize",
+    "founder_1_name": "Rachit Kataria",
+    "website": "https://www.usecentralize.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Confido",
+    "founder_1_name": "Kara Holinski",
+    "website": "https://www.confidotech.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Volantio",
+    "founder_1_name": "Fenn Bailey",
+    "website": "http://www.volantio.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Repool",
+    "founder_1_name": "Kevin Fu",
+    "website": "http://repool.com",
+    "founder_email": [
+      "kevin@repool.com"
+    ]
+  },
+  {
+    "company_name": "Joon Health",
+    "founder_1_name": "Isaac Eaves",
+    "website": "https://joonhealth.co",
+    "founder_email": null
+  },
+  {
+    "company_name": "David AI",
+    "founder_1_name": "Tomer Cohen",
+    "website": "https://www.withdavid.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Castle",
+    "founder_1_name": "Johan Brissmyr",
+    "website": "https://castle.io",
+    "founder_email": [
+      "johan@castle.io"
+    ]
+  },
+  {
+    "company_name": "Brighterway",
+    "founder_1_name": "Walker Wells",
+    "website": "https://www.brighterway.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Diversion",
+    "founder_1_name": "Sasha Medvedovsky",
+    "website": "https://diversion.dev",
+    "founder_email": [
+      "sashamedvedovsky@diversion.dev",
+      "sasha.medvedovsky@diversion.dev",
+      "sasha@diversion.dev"
+    ]
+  },
+  {
+    "company_name": "Terra API",
+    "founder_1_name": "Kyriakos Eleftheriou",
+    "website": "http://tryterra.co",
+    "founder_email": [
+      "kyriakos@tryterra.co"
+    ]
+  },
+  {
+    "company_name": "Brainbase",
+    "founder_1_name": "Gokhan Egri",
+    "website": "https://usebrainbase.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "trebu",
+    "founder_1_name": "Daniel Akle Carranza",
+    "website": "https://www.trebu.io/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Tarsal",
+    "founder_1_name": "Sunny Rekhi",
+    "website": "https://www.tarsal.co/",
+    "founder_email": [
+      "sunny@www.tarsal.co",
+      "sunny.rekhi@www.tarsal.co",
+      "sunnyrekhi@www.tarsal.co"
+    ]
+  },
+  {
+    "company_name": "Branch8",
+    "founder_1_name": "Matt Li",
+    "website": "http://branch8.com",
+    "founder_email": [
+      "matt.li@branch8.com",
+      "mattli@branch8.com",
+      "matt@branch8.com"
+    ]
+  },
+  {
+    "company_name": "Gander",
+    "founder_1_name": "Arjan Guglani",
+    "website": "https://usegander.com",
+    "founder_email": [
+      "arjan@usegander.com"
+    ]
+  },
+  {
+    "company_name": "Shepherd",
+    "founder_1_name": "Mohamed El Mahallawy",
+    "website": "https://withshepherd.com",
+    "founder_email": [
+      "mohamedmahallawy@withshepherd.com",
+      "mohamed.mahallawy@withshepherd.com",
+      "mohamed@withshepherd.com"
+    ]
+  },
+  {
+    "company_name": "Craniometrix",
+    "founder_1_name": "Nikhil Patel",
+    "website": "https://craniometrix.com",
+    "founder_email": [
+      "nikhil@craniometrix.com"
+    ]
+  },
+  {
+    "company_name": "Speedy Labs",
+    "founder_1_name": "Jatin Mehta",
+    "website": "https://speedylabs.ai/",
+    "founder_email": [
+      "jatin@speedylabs.ai"
+    ]
+  },
+  {
+    "company_name": "Thera",
+    "founder_1_name": "Akhil Reddy",
+    "website": "https://www.getthera.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Dalus",
+    "founder_1_name": "Sebastian Völkl",
+    "website": "https://dalus.io",
+    "founder_email": [
+      "sebastian@dalus.io"
+    ]
+  },
+  {
+    "company_name": "Anara",
+    "founder_1_name": "Naveed Janmohamed",
+    "website": "https://anara.com",
+    "founder_email": [
+      "naveed@anara.com"
+    ]
+  },
+  {
+    "company_name": "Omnistrate",
+    "founder_1_name": "Kamal Gupta",
+    "website": "http://www.omnistrate.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Explo",
+    "founder_1_name": "Andrew Chen",
+    "website": "https://explo.co/",
+    "founder_email": [
+      "andrew@explo.co"
+    ]
+  },
+  {
+    "company_name": "Upstream",
+    "founder_1_name": "Louis Lecat",
+    "website": "https://www.upstream.do/",
+    "founder_email": null
+  },
+  {
+    "company_name": "HockeyStack",
+    "founder_1_name": "Buğra Gündüz",
+    "website": "https://hockeystack.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "LiteLLM",
+    "founder_1_name": "Krrish Dholakia",
+    "website": "https://www.litellm.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Laylo",
+    "founder_1_name": "Alec Ellin",
+    "website": "https://laylo.com",
+    "founder_email": [
+      "alec@laylo.com"
+    ]
+  },
+  {
+    "company_name": "222",
+    "founder_1_name": "Keyan Kazemian",
+    "website": "https://222.place",
+    "founder_email": [
+      "keyan@222.place"
+    ]
+  },
+  {
+    "company_name": "Sphinx",
+    "founder_1_name": "Alexandre Berkovic",
+    "website": "https://sphinxlabs.ai/",
+    "founder_email": [
+      "alexandre@sphinxlabs.ai",
+      "alexandre.berkovic@sphinxlabs.ai"
+    ]
+  },
+  {
+    "company_name": "Junction",
+    "founder_1_name": "Maitham Dib",
+    "website": "https://www.junction.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Sieve",
+    "founder_1_name": "Mokshith Voodarla",
+    "website": "https://sievedata.com/",
+    "founder_email": [
+      "mokshithvoodarla@sievedata.com",
+      "mokshith.voodarla@sievedata.com",
+      "mokshith@sievedata.com"
+    ]
+  },
+  {
+    "company_name": "Givefront",
+    "founder_1_name": "Matt Tengtrakool",
+    "website": "https://givefront.com",
+    "founder_email": [
+      "matt.tengtrakool@givefront.com",
+      "matttengtrakool@givefront.com",
+      "matt@givefront.com"
+    ]
+  },
+  {
+    "company_name": "Openlayer",
+    "founder_1_name": "Gabriel Bayomi Kalejaiye",
+    "website": "https://openlayer.com",
+    "founder_email": [
+      "gabriel@openlayer.com"
+    ]
+  },
+  {
+    "company_name": "Alinea",
+    "founder_1_name": "Eve Halimi",
+    "website": "https://alinea-invest.com/",
+    "founder_email": [
+      "eve@alinea-invest.com"
+    ]
+  },
+  {
+    "company_name": "Cekura (formerly Vocera)",
+    "founder_1_name": "Tarush Agarwal",
+    "website": "https://www.cekura.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Cercli",
+    "founder_1_name": "Akeed Azmi",
+    "website": "https://www.cercli.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "PointOne",
+    "founder_1_name": "Adrian Parlow",
+    "website": "https://pointone.com/",
+    "founder_email": [
+      "adrian@pointone.com"
+    ]
+  },
+  {
+    "company_name": "iSono Health",
+    "founder_1_name": "Shadi Saberi",
+    "website": "http://www.isonohealth.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Toma",
+    "founder_1_name": "Monik Pamecha",
+    "website": "http://www.toma.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Nowadays",
+    "founder_1_name": "Anna Sun",
+    "website": "http://getnowadays.com/",
+    "founder_email": [
+      "anna@getnowadays.com"
+    ]
+  },
+  {
+    "company_name": "Leafpress",
+    "founder_1_name": "Devishi Jha",
+    "website": "https://www.leafpress.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Guide Labs",
+    "founder_1_name": "Julius Adebayo",
+    "website": "https://www.guidelabs.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Superwall",
+    "founder_1_name": "Brian Anglin",
+    "website": "https://superwall.com",
+    "founder_email": [
+      "brian@superwall.com"
+    ]
+  },
+  {
+    "company_name": "Rinse",
+    "founder_1_name": "Casey Harlin",
+    "website": "http://www.rinse.dental",
+    "founder_email": null
+  },
+  {
+    "company_name": "Deepnote",
+    "founder_1_name": "Jakub Jurovych",
+    "website": "https://www.deepnote.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Heroic Story",
+    "founder_1_name": "Jay Rosenkrantz",
+    "website": "https://heroicstory.com",
+    "founder_email": [
+      "jay@heroicstory.com"
+    ]
+  },
+  {
+    "company_name": "BeeBettor",
+    "founder_1_name": "Jordan Murphy",
+    "website": "https://beebettor.com",
+    "founder_email": [
+      "jordan@beebettor.com"
+    ]
+  },
+  {
+    "company_name": "Greptile",
+    "founder_1_name": "Daksh Gupta",
+    "website": "https://www.greptile.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Noya",
+    "founder_1_name": "Josh Santos",
+    "website": "https://noya.co",
+    "founder_email": [
+      "josh@noya.co"
+    ]
+  },
+  {
+    "company_name": "Simplify",
+    "founder_1_name": "Michael Yan",
+    "website": "https://simplify.jobs/",
+    "founder_email": [
+      "michael@simplify.jobs"
+    ]
+  },
+  {
+    "company_name": "True3D",
+    "founder_1_name": "Daniel Habib",
+    "website": "https://",
+    "founder_email": null
+  },
+  {
+    "company_name": "Matter",
+    "founder_1_name": "Ben Springwater",
+    "website": "https://getmatter.app",
+    "founder_email": [
+      "ben@getmatter.app"
+    ]
+  },
+  {
+    "company_name": "Two Dots",
+    "founder_1_name": "Henson Orser",
+    "website": "https://www.twodots.net/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Keye",
+    "founder_1_name": "Rohan Parikh",
+    "website": "https://www.keye.co",
+    "founder_email": null
+  },
+  {
+    "company_name": "Olympian Motors",
+    "founder_1_name": "Jasmine Sungu",
+    "website": "https://olympianmotors.com/",
+    "founder_email": [
+      "jasmine.sungu@olympianmotors.com",
+      "jasminesungu@olympianmotors.com",
+      "jasmine@olympianmotors.com"
+    ]
+  },
+  {
+    "company_name": "Epsilon3",
+    "founder_1_name": "Laura Crabtree",
+    "website": "https://www.epsilon3.io/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Corgea",
+    "founder_1_name": "Ahmad Sadeddin",
+    "website": "https://www.corgea.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Avenue",
+    "founder_1_name": "Justin Bleuel",
+    "website": "https://avenue.app/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Atlas",
+    "founder_1_name": "Jon O'Bryan",
+    "website": "https://atlas.so",
+    "founder_email": [
+      "jonobryan@atlas.so",
+      "jon.obryan@atlas.so",
+      "jon@atlas.so"
+    ]
+  },
+  {
+    "company_name": "Conveo",
+    "founder_1_name": "Dieter De Mesmaeker",
+    "website": "https://conveo.ai/",
+    "founder_email": [
+      "dieter@conveo.ai"
+    ]
+  },
+  {
+    "company_name": "Onlook",
+    "founder_1_name": "Daniel Farrell",
+    "website": "https://onlook.com/",
+    "founder_email": [
+      "daniel@onlook.com"
+    ]
+  },
+  {
+    "company_name": "Capi Money",
+    "founder_1_name": "Mitch Riley",
+    "website": "https://www.capimoney.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Kingdom Supercultures",
+    "founder_1_name": "Kendall Dabaghi",
+    "website": "https://kingdomsupercultures.com",
+    "founder_email": [
+      "kendall@kingdomsupercultures.com"
+    ]
+  },
+  {
+    "company_name": "SalesPatriot",
+    "founder_1_name": "Nelson Ray",
+    "website": "https://www.salespatriot.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Oway",
+    "founder_1_name": "Phillip Nadjafov",
+    "website": "https://www.shipoway.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Coverage Cat",
+    "founder_1_name": "Max Cho",
+    "website": "https://www.coveragecat.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Browser Use",
+    "founder_1_name": "Magnus Müller",
+    "website": "https://browser-use.com",
+    "founder_email": [
+      "magnus@browser-use.com"
+    ]
+  },
+  {
+    "company_name": "Unbound",
+    "founder_1_name": "Rajaram Srinivasan",
+    "website": "https://getunbound.ai/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Autotab",
+    "founder_1_name": "Jonas Nelle",
+    "website": "https://autotab.com",
+    "founder_email": [
+      "jonas@autotab.com"
+    ]
+  },
+  {
+    "company_name": "Dioxus Labs",
+    "founder_1_name": "Jonathan Kelley",
+    "website": "https://dioxuslabs.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Agave",
+    "founder_1_name": "Tom Reno",
+    "website": "https://www.agaveapi.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Ultra",
+    "founder_1_name": "Oliver Zou",
+    "website": "https://useultra.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "arnata",
+    "founder_1_name": "Georgy Melkonyan",
+    "website": "https://arnata.com",
+    "founder_email": [
+      "georgymelkonyan@arnata.com",
+      "georgy.melkonyan@arnata.com",
+      "georgy@arnata.com"
+    ]
+  },
+  {
+    "company_name": "Blissway",
+    "founder_1_name": "Francisco Torrealba",
+    "website": "https://www.blissway.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Anthrogen",
+    "founder_1_name": "Ankit Singhal",
+    "website": "https://anthrogen.com",
+    "founder_email": [
+      "ankit@anthrogen.com"
+    ]
+  },
+  {
+    "company_name": "Elevate (formerly Bloom)",
+    "founder_1_name": "Khalid Keenan",
+    "website": "https://www.elevatepay.co",
+    "founder_email": null
+  },
+  {
+    "company_name": "SkyLink",
+    "founder_1_name": "Atyab Bhatti",
+    "website": "http://www.tryskylink.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Lighthouz AI",
+    "founder_1_name": "Srijan Kumar",
+    "website": "https://lighthouz.ai/",
+    "founder_email": [
+      "srijan@lighthouz.ai"
+    ]
+  },
+  {
+    "company_name": "Nest Genomics",
+    "founder_1_name": "Moran Snir",
+    "website": "https://nestgenomics.com",
+    "founder_email": [
+      "moran.snir@nestgenomics.com",
+      "moransnir@nestgenomics.com",
+      "moran@nestgenomics.com"
+    ]
+  },
+  {
+    "company_name": "Coba",
+    "founder_1_name": "Joseph Saliba",
+    "website": "https://www.coba.ai",
+    "founder_email": null
+  },
+  {
+    "company_name": "Hotplate",
+    "founder_1_name": "Ben Klenk",
+    "website": "http://www.hotplate.com/",
+    "founder_email": null
+  },
+  {
+    "company_name": "Stack Auth",
+    "founder_1_name": "Konstantin Wohlwend",
+    "website": "https://stack-auth.com",
+    "founder_email": [
+      "konstantin.wohlwend@stack-auth.com",
+      "konstantinwohlwend@stack-auth.com",
+      "konstantin@stack-auth.com"
+    ]
+  },
+  {
+    "company_name": "Dropback",
+    "founder_1_name": "Luke Bogus",
+    "website": "https://www.dropback.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Slope",
+    "founder_1_name": "Lawrence Lin Murata",
+    "website": "http://www.slopepay.com",
+    "founder_email": null
+  },
+  {
+    "company_name": "Mosaic",
+    "founder_1_name": "Adish Jain",
+    "website": "https://usemosaic.ai",
+    "founder_email": [
+      "adish@usemosaic.ai"
+    ]
+  },
+  {
+    "company_name": "Bits",
+    "founder_1_name": "Faisal Khalid",
+    "website": "https://www.getbits.app",
+    "founder_email": null
+  },
+  {
+    "company_name": "Hatchet",
+    "founder_1_name": "Alexander Belanger",
+    "website": "https://hatchet.run",
+    "founder_email": [
+      "alexander.belanger@hatchet.run",
+      "alexanderbelanger@hatchet.run",
+      "alexander@hatchet.run"
+    ]
+  },
+  {
+    "company_name": "Zep AI",
+    "founder_1_name": "Daniel Chalef",
+    "website": "https://www.getzep.com/",
+    "founder_email": null
+  }
+]
