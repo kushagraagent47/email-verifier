@@ -37,6 +37,10 @@ function domainExists(domain) {
   });
 }
 
+app.get("/", function (req, res) {
+  res.send("Hello World!");
+});
+
 app.get("/v1/validate/emails", async function (req, res) {
   try {
     var email = req.query.email;
